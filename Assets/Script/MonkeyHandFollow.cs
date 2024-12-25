@@ -12,7 +12,7 @@ public class MonkeyHandFollow : MonoBehaviour
 
     void Start()
     {
-        mainCamera = Camera.main;
+       mainCamera = Camera.main;
     }
 
     void FixedUpdate()
