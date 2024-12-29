@@ -4,44 +4,37 @@ using UnityEngine;
 
 public class Grab : MonoBehaviour
 {
-    GameObject grabbedObj;
-    public Rigidbody2D rb;
-    public int isLeftorRight;
-    void Start()
-    {
-        rb = GetComponent<Rigidbody2D>();
-    }
-    
+    private bool hold;
+    public KeyCode mouseButton;
+
     void Update()
     {
-        if (Input.GetMouseButtonDown(isLeftorRight))
+        if (Input.GetKey(mouseButton))
         {
-            FixedJoint2D fj = grabbedObj.AddComponent<FixedJoint2D>();
-            fj.connectedBody = rb;
-            fj.breakForce = 9001;
-
+            hold = true;
         }
-        else if (Input.GetMouseButtonDown(isLeftorRight))
+        else
         {
-            if(grabbedObj != null)
+            hold = false;
+            Destroy(GetComponent<FixedJoint2D>());
+        }
+    }
+    private void OnCollisionEnter2D(Collision2D col)
+    {
+        if (hold)
+        {
+            Rigidbody2D rb = col.transform.GetComponent<Rigidbody2D>();
+            if (rb != null)
             {
-                Destroy(grabbedObj.GetComponent<FixedJoint2D>());
-
+                FixedJoint2D fj = transform.gameObject.AddComponent(typeof(FixedJoint2D)) as FixedJoint2D;
+                fj.connectedBody = rb;
             }
-            grabbedObj = null;
         }
-
-    }
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.gameObject.CompareTag("Item"))
+        else
         {
-            grabbedObj = other.gameObject;
+            FixedJoint2D fj = transform.gameObject.AddComponent(typeof(FixedJoint2D)) as FixedJoint2D;
         }
     }
 
-    private void OnTriggerExit(Collider other)
-    {
-        grabbedObj = null;
-    }
+
 }

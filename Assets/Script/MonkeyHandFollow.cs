@@ -17,12 +17,12 @@ public class MonkeyHandFollow : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (Input.GetKey(KeyCode.Q))
+        if (Input.GetKey(KeyCode.Mouse0))
         {
             MoveHandTowardsMouse(leftHand);
         }
 
-        if (Input.GetKey(KeyCode.E))
+        if (Input.GetKey(KeyCode.Mouse1))
         {
             MoveHandTowardsMouse(rightHand);
         }
