@@ -32,6 +32,7 @@ public class Airplane : MonoBehaviour
             Shoot();
             timeSinceLastShot = 0f;  // Reset the shooting cooldown timer after shooting
         }
+
     }
 
     void Fly()
@@ -79,6 +80,15 @@ public class Airplane : MonoBehaviour
             // Get the Rigidbody2D of the bullet and apply force in the direction the airplane is facing
             Rigidbody2D bulletRb = bullet.GetComponent<Rigidbody2D>();
             bulletRb.velocity = transform.right * bulletSpeed;  // Move the bullet forward
+        }
+    }
+
+    void OnTrgiggerEnter2D (Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            Destroy(gameObject);
+
         }
     }
 }
