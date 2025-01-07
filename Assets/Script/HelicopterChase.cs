@@ -24,9 +24,11 @@ public class HelicopterChase : MonoBehaviour
 
     void Update()
     {
+        
         float distanceFromPlayer = Vector2.Distance(player.position, transform.position);
         if (distanceFromPlayer < lineOfSite && distanceFromPlayer > shootingRange)
         {
+            print("Detect");
             // Stop the patrol behavior and start chasing
             patrolScript.StopPatrolling();
             transform.position = Vector2.MoveTowards(this.transform.position, player.position, speed * Time.deltaTime);
@@ -35,7 +37,9 @@ public class HelicopterChase : MonoBehaviour
 
         else if (distanceFromPlayer <= shootingRange && nextFireTime < Time.time)
         {
+            print("shoot");
             // Shoot at the player
+            
             Instantiate(bullet, bulletParent.transform.position, Quaternion.identity);
             nextFireTime = Time.time + fireRate;
         }

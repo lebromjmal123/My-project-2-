@@ -1,17 +1,25 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Bulletdisappear : MonoBehaviour
 {
     // Start is called before the first frame update
     public float lifetime = 2f; // Time in seconds before the bullet disappears
-    
+    public BulletTarget target;
+    public float bulletSpeed = 10f;
     
     void Start()
     {
+        target = FindAnyObjectByType<BulletTarget>();
+        print("Bullet Spawn");
         // Destroy the bullet after the specified lifetime
-        Destroy(gameObject, lifetime);
+        //Destroy(gameObject, lifetime);
+        Rigidbody2D rb = GetComponent<Rigidbody2D>();
+        Vector2 bulletMove = (target.transform.position - transform.position).normalized;
+        rb.velocity = bulletMove * bulletSpeed;
+        
     }
 
     // Optional: You can add collision logic here if you want to destroy the bullet when it hits something
@@ -26,6 +34,14 @@ public class Bulletdisappear : MonoBehaviour
     //   }
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        if (collision.gameObject.CompareTag("Player"))
+        { 
         Destroy(gameObject);
+        }
     }
+    private void Update()
+    {
+        
+    }
+
 }

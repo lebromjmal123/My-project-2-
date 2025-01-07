@@ -144,11 +144,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7293d2b00d8e0b2448b2296ecfaee082, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  lineOfSite: 10
+  speed: 15
+  lineOfSite: 30
   shootingRange: 10
   fireRate: 3
-  bullet: {fileID: 3459297500665259231, guid: 45ec121068fc8e54da33dc479190d76e, type: 3}
+  bullet: {fileID: 3459297500665259231, guid: f03b682fc07b38442a9817bdbc7f08cf, type: 3}
   bulletParent: {fileID: 4044893073663016083}
 --- !u!61 &-2957542289739654501
 BoxCollider2D:
