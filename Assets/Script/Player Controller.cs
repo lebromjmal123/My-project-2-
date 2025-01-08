@@ -14,6 +14,7 @@ public class PlayerController : MonoBehaviour
     public LayerMask ground;
     public Transform playerPos;
 
+    public PlayerHealth playerHealth;
 
     void Start()
     {
@@ -45,10 +46,14 @@ public class PlayerController : MonoBehaviour
                 rb.AddForce(Vector2.left * playerSpeed * Time.deltaTime);
             }
         }
+        //else if (playerHealth.hpTrigger == true)
+        // {
+        //     playerHealth.StartCoroutine(Hurt());
+
+        //}
         else
         {
             anim.Play("Idle");
-
         }
 
         isOnGround = Physics2D.OverlapCircle(playerPos.position, positionRadius, ground);

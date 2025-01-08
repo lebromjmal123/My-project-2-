@@ -13,7 +13,7 @@ public class Bulletdisappear : MonoBehaviour
     void Start()
     {
         target = FindAnyObjectByType<BulletTarget>();
-        print("Bullet Spawn");
+        
         // Destroy the bullet after the specified lifetime
         //Destroy(gameObject, lifetime);
         Rigidbody2D rb = GetComponent<Rigidbody2D>();
