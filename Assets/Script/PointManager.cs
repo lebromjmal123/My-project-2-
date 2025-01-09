@@ -26,14 +26,7 @@ public class PointManager : MonoBehaviour
         pointText.text = pointCount.ToString();
         CheckHighScore();
 
-        if (Input.GetKeyDown(KeyCode.L))
-        {
-            pointCount += 1;
-        }
-        if(Input.GetKeyDown(KeyCode.K))
-        {
-            SceneManager.LoadScene("End");
-        }
+        
         
     }
     void CheckHighScore()

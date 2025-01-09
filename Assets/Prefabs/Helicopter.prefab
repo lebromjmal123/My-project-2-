@@ -146,9 +146,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 15
-  lineOfSite: 35
-  shootingRange: 20
-  fireRate: 3
+  lineOfSite: 10
+  shootingRange: 5
+  fireRate: 1
   bullet: {fileID: 3459297500665259231, guid: f03b682fc07b38442a9817bdbc7f08cf, type: 3}
   bulletParent: {fileID: 4044893073663016083}
   helicopterSound: {fileID: -2942479032395647467}
