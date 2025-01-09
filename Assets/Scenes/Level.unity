@@ -469,7 +469,7 @@ GameObject:
   - component: {fileID: 15765828}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -485,9 +485,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.747242, y: 1.7021141}
@@ -650,7 +650,7 @@ GameObject:
   - component: {fileID: 30767002}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -666,9 +666,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.837715, y: 7.180028}
@@ -830,7 +830,7 @@ GameObject:
   - component: {fileID: 33048070}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -846,9 +846,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 51.421932, y: 3.6320667}
@@ -1176,7 +1176,7 @@ GameObject:
   - component: {fileID: 47153812}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1192,9 +1192,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.798336, y: -4.555463}
@@ -1522,7 +1522,7 @@ GameObject:
   - component: {fileID: 48762311}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1538,9 +1538,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.80408, y: -1.5200634}
@@ -1868,7 +1868,7 @@ GameObject:
   - component: {fileID: 56946149}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1884,9 +1884,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.820805, y: 1.7051401}
@@ -2214,7 +2214,7 @@ GameObject:
   - component: {fileID: 64952851}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2230,9 +2230,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.69299, y: 21.063831}
@@ -2560,7 +2560,7 @@ GameObject:
   - component: {fileID: 74820994}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2576,9 +2576,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.30277, y: 12.252674}
@@ -2725,6 +2725,101 @@ Transform:
   m_Children: []
   m_Father: {fileID: 779355579}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &83734350
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 83734351}
+  - component: {fileID: 83734353}
+  - component: {fileID: 83734352}
+  - component: {fileID: 83734354}
+  m_Layer: 5
+  m_Name: Resume
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &83734351
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 83734350}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1423244654}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &83734352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 83734350}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 5ef6417b1d79f0c488db17fa61570560, type: 3}
+    m_FontSize: 65
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 6
+    m_MaxSize: 65
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: RESUME
+--- !u!222 &83734353
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 83734350}
+  m_CullTransparentMesh: 1
+--- !u!114 &83734354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 83734350}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: 2, y: -2}
+  m_UseGraphicAlpha: 1
 --- !u!1 &85664315
 GameObject:
   m_ObjectHideFlags: 0
@@ -2741,7 +2836,7 @@ GameObject:
   - component: {fileID: 85664316}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2757,9 +2852,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.626396, y: -0.01061821}
@@ -2922,7 +3017,7 @@ GameObject:
   - component: {fileID: 116909147}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2938,9 +3033,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.00401, y: -1.5047722}
@@ -3103,7 +3198,7 @@ GameObject:
   - component: {fileID: 126744300}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3119,9 +3214,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.774166, y: 13.852438}
@@ -3433,6 +3528,97 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &130182803
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 130182804}
+  - component: {fileID: 130182805}
+  - component: {fileID: 130182806}
+  m_Layer: 0
+  m_Name: HitBox
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &130182804
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 130182803}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.5659999, y: 0.11725713, z: 0}
+  m_LocalScale: {x: 0.2, y: 0.14285713, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1093264571}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &130182805
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 130182803}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 2.8380904, y: -1.1659749}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.5581656, y: 4.561525}
+  m_EdgeRadius: 0
+--- !u!114 &130182806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 130182803}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91fe2ef0afde14441865fb2bf89f1972, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerHealth: {fileID: 332219003}
 --- !u!1 &144730805
 GameObject:
   m_ObjectHideFlags: 0
@@ -3479,6 +3665,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pointCount: 0
   pointText: {fileID: 990129582}
+  highScoreText: {fileID: 0}
 --- !u!43 &158427467
 Mesh:
   m_ObjectHideFlags: 0
@@ -3660,7 +3847,7 @@ GameObject:
   - component: {fileID: 182545703}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3676,9 +3863,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.039764, y: -4.551862}
@@ -4171,7 +4358,7 @@ GameObject:
   - component: {fileID: 197995576}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4187,9 +4374,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.7418, y: 3.6440687}
@@ -4352,7 +4539,7 @@ GameObject:
   - component: {fileID: 201465428}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4368,9 +4555,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.780308, y: 12.252819}
@@ -4698,7 +4885,7 @@ GameObject:
   - component: {fileID: 220859160}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4714,9 +4901,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.309708, y: 8.4666815}
@@ -5292,7 +5479,7 @@ GameObject:
   - component: {fileID: 272528551}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5308,9 +5495,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.99942, y: -0.0063791275}
@@ -5803,7 +5990,7 @@ GameObject:
   - component: {fileID: 321985352}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5819,9 +6006,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.05161, y: 5.8583565}
@@ -6312,7 +6499,6 @@ GameObject:
   - component: {fileID: 325191211}
   - component: {fileID: 325191208}
   - component: {fileID: 325191206}
-  - component: {fileID: 325191214}
   - component: {fileID: 325191207}
   m_Layer: 0
   m_Name: LeftUpHand
@@ -6513,19 +6699,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pointManager: {fileID: 144730807}
---- !u!114 &325191214
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 325191205}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 91fe2ef0afde14441865fb2bf89f1972, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerHealth: {fileID: 332219003}
 --- !u!1 &332218999
 GameObject:
   m_ObjectHideFlags: 0
@@ -6536,6 +6709,7 @@ GameObject:
   m_Component:
   - component: {fileID: 332219000}
   - component: {fileID: 332219002}
+  - component: {fileID: 332219005}
   - component: {fileID: 332219001}
   - component: {fileID: 332219003}
   m_Layer: 0
@@ -6554,7 +6728,7 @@ Transform:
   m_GameObject: {fileID: 332218999}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 27.2, y: 4.52, z: 0}
+  m_LocalPosition: {x: -26.8, y: 0.1, z: 0}
   m_LocalScale: {x: 1.6, y: 1.4, z: 1.66}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6585,7 +6759,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   anim: {fileID: 332219002}
   rb: {fileID: 1710651787}
-  jumpForce: 30000
+  jumpForce: 70000
   playerSpeed: 60000
   jumpHeight: {x: 0, y: 0}
   positionRadius: 0.3
@@ -6630,6 +6804,19 @@ MonoBehaviour:
   healthBar: {fileID: 1507796625}
   healthAmount: 100
   hpTrigger: 0
+--- !u!114 &332219005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 332218999}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91fe2ef0afde14441865fb2bf89f1972, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerHealth: {fileID: 332219003}
 --- !u!1 &334194432
 GameObject:
   m_ObjectHideFlags: 0
@@ -6646,7 +6833,7 @@ GameObject:
   - component: {fileID: 334194433}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6662,9 +6849,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.169594, y: -0.0050382614}
@@ -7287,7 +7474,7 @@ GameObject:
   - component: {fileID: 355458478}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7303,9 +7490,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.7524, y: 19.522373}
@@ -7633,7 +7820,7 @@ GameObject:
   - component: {fileID: 371839371}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7649,9 +7836,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.622322, y: 1.699255}
@@ -7814,7 +8001,7 @@ GameObject:
   - component: {fileID: 372823741}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7830,9 +8017,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.593372, y: 13.85237}
@@ -7995,7 +8182,7 @@ GameObject:
   - component: {fileID: 372836147}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8011,9 +8198,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.71768, y: 12.2527685}
@@ -8313,7 +8500,7 @@ Transform:
   m_GameObject: {fileID: 378723542}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 56.6, y: -3.5, z: 0}
+  m_LocalPosition: {x: 30.9, y: -3.5, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 3}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -8678,7 +8865,7 @@ GameObject:
   - component: {fileID: 421390824}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8694,9 +8881,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.61241, y: 5.8594637}
@@ -9519,7 +9706,7 @@ GameObject:
   - component: {fileID: 447015824}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9535,9 +9722,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.810165, y: 1.6921005}
@@ -9700,7 +9887,7 @@ GameObject:
   - component: {fileID: 461457258}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9716,9 +9903,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.05465, y: 13.852316}
@@ -9881,7 +10068,7 @@ GameObject:
   - component: {fileID: 463967916}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9897,9 +10084,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.87732, y: 8.698143}
@@ -10228,7 +10415,7 @@ GameObject:
   - component: {fileID: 471472695}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10244,9 +10431,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.043217, y: -1.5176401}
@@ -10409,7 +10596,7 @@ GameObject:
   - component: {fileID: 472937147}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10425,9 +10612,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.16772, y: 1.7105255}
@@ -10918,7 +11105,6 @@ GameObject:
   - component: {fileID: 501237112}
   - component: {fileID: 501237110}
   - component: {fileID: 501237109}
-  - component: {fileID: 501237116}
   - component: {fileID: 501237108}
   m_Layer: 0
   m_Name: LeftLowHand
@@ -10958,7 +11144,7 @@ HingeJoint2D:
   m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0.005000063, y: 0.14499998}
-  m_ConnectedAnchor: {x: -0.00000024943387, y: 0.060000025}
+  m_ConnectedAnchor: {x: -0.00000024943384, y: 0.060000017}
   m_UseMotor: 0
   m_Motor:
     m_MotorSpeed: 0
@@ -11119,19 +11305,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pointManager: {fileID: 144730807}
---- !u!114 &501237116
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 501237106}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 91fe2ef0afde14441865fb2bf89f1972, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerHealth: {fileID: 332219003}
 --- !u!1 &502912583
 GameObject:
   m_ObjectHideFlags: 0
@@ -11148,7 +11321,7 @@ GameObject:
   - component: {fileID: 502912584}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11164,9 +11337,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.833138, y: -1.5074129}
@@ -11494,7 +11667,7 @@ GameObject:
   - component: {fileID: 508813252}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11510,9 +11683,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.11914, y: 15.508144}
@@ -11676,7 +11849,7 @@ GameObject:
   - component: {fileID: 516292861}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11692,9 +11865,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 51.419136, y: -3.1088362}
@@ -11857,7 +12030,7 @@ GameObject:
   - component: {fileID: 519050785}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11873,9 +12046,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.764732, y: -4.541045}
@@ -12368,7 +12541,7 @@ GameObject:
   - component: {fileID: 541093335}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12384,9 +12557,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.964706, y: 12.252859}
@@ -12549,7 +12722,7 @@ GameObject:
   - component: {fileID: 558097034}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12565,9 +12738,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.75811, y: 18.03437}
@@ -12730,7 +12903,7 @@ GameObject:
   - component: {fileID: 575501959}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12746,9 +12919,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.741142, y: 23.023838}
@@ -13076,7 +13249,7 @@ GameObject:
   - component: {fileID: 582902275}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13092,9 +13265,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.56537, y: 25.60838}
@@ -13257,7 +13430,7 @@ GameObject:
   - component: {fileID: 597832304}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13273,9 +13446,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.82738, y: -0.0077171326}
@@ -13438,7 +13611,7 @@ GameObject:
   - component: {fileID: 599983900}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13454,9 +13627,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.174538, y: -4.5287523}
@@ -14358,7 +14531,7 @@ GameObject:
   - component: {fileID: 642810697}
   - component: {fileID: 642810696}
   m_Layer: 0
-  m_Name: HelicopterSpawner
+  m_Name: HelicopterSpawner1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14379,7 +14552,7 @@ MonoBehaviour:
   objectPrefab: {fileID: 4044893073663016083, guid: 2ed83f8924ace874bb0b34f1bcb05cbe, type: 3}
   patrolLocation: {fileID: 2044684328}
   moveSpeed: 5
-  respawnDelay: 4
+  respawnDelay: 15
 --- !u!4 &642810697
 Transform:
   m_ObjectHideFlags: 0
@@ -14412,7 +14585,7 @@ GameObject:
   - component: {fileID: 651191751}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14428,9 +14601,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.314487, y: 5.858923}
@@ -15658,7 +15831,7 @@ GameObject:
   - component: {fileID: 696289553}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15674,9 +15847,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.579876, y: 19.517704}
@@ -16334,7 +16507,7 @@ GameObject:
   - component: {fileID: 723939695}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16350,9 +16523,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.794838, y: 8.468613}
@@ -16680,7 +16853,7 @@ GameObject:
   - component: {fileID: 739743006}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16696,9 +16869,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.786697, y: 10.5884285}
@@ -16892,7 +17065,7 @@ GameObject:
   - component: {fileID: 755435919}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16908,9 +17081,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.99417, y: 1.7078352}
@@ -17073,7 +17246,7 @@ GameObject:
   - component: {fileID: 758217484}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17089,9 +17262,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.745773, y: 27.769611}
@@ -17257,7 +17430,7 @@ GameObject:
   - component: {fileID: 762727896}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17273,9 +17446,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.768333, y: 15.371456}
@@ -17764,7 +17937,6 @@ GameObject:
   - component: {fileID: 779355578}
   - component: {fileID: 779355577}
   - component: {fileID: 779355581}
-  - component: {fileID: 779355580}
   m_Layer: 0
   m_Name: Land Mark 81 Tower
   m_TagString: Tower
@@ -18019,19 +18191,6 @@ Transform:
   - {fileID: 1384270897}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &779355580
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 779355576}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 24bb48f10e33d6940b57f5b18807ba61, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  towerHealth: 2
 --- !u!114 &779355581
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23122,8 +23281,8 @@ MonoBehaviour:
   initialLinearImpulsePlusMinus: 10
   initialRotationalImpulse: {x: 0, y: 0, z: 1}
   initialRotationalImpulsePlusMinus: 10
-  timeToLive: 2
-  fadeAfter: 0
+  timeToLive: 1
+  fadeAfter: 0.1
   endAction: 3
   OnTimeToLiveExpired:
     m_PersistentCalls:
@@ -23155,7 +23314,7 @@ GameObject:
   - component: {fileID: 780025990}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23171,9 +23330,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.330894, y: -3.0956469}
@@ -23336,7 +23495,7 @@ GameObject:
   - component: {fileID: 787399367}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23352,9 +23511,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.60959, y: 27.981758}
@@ -23683,7 +23842,7 @@ GameObject:
   - component: {fileID: 815581429}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23699,9 +23858,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.328, y: -1.5153618}
@@ -24356,7 +24515,6 @@ GameObject:
   - component: {fileID: 841706880}
   - component: {fileID: 841706878}
   - component: {fileID: 841706877}
-  - component: {fileID: 841706881}
   - component: {fileID: 841706876}
   m_Layer: 0
   m_Name: RightLeg
@@ -24396,7 +24554,7 @@ HingeJoint2D:
   m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: -0.000000026326433, y: 0.06999996}
-  m_ConnectedAnchor: {x: 0.07079983, y: -0.19500005}
+  m_ConnectedAnchor: {x: 0.070800066, y: -0.19500005}
   m_UseMotor: 0
   m_Motor:
     m_MotorSpeed: 0
@@ -24404,7 +24562,7 @@ HingeJoint2D:
   m_UseLimits: 1
   m_AngleLimits:
     m_LowerAngle: 0
-    m_UpperAngle: -180
+    m_UpperAngle: -45
 --- !u!50 &841706877
 Rigidbody2D:
   serializedVersion: 4
@@ -24543,20 +24701,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetRotation: 0
   rb: {fileID: 841706877}
-  force: 2000
---- !u!114 &841706881
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 841706874}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 91fe2ef0afde14441865fb2bf89f1972, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerHealth: {fileID: 332219003}
+  force: 500
 --- !u!43 &858610634
 Mesh:
   m_ObjectHideFlags: 0
@@ -25233,7 +25378,7 @@ GameObject:
   - component: {fileID: 895773722}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25249,9 +25394,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.046875, y: 1.6945953}
@@ -25414,7 +25559,7 @@ GameObject:
   - component: {fileID: 901757553}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25430,9 +25575,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.60114, y: 10.590914}
@@ -25595,7 +25740,7 @@ GameObject:
   - component: {fileID: 905336399}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25611,9 +25756,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 51.420418, y: -0.015129089}
@@ -25776,7 +25921,7 @@ GameObject:
   - component: {fileID: 907646905}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25792,9 +25937,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.294613, y: 16.703156}
@@ -26122,7 +26267,7 @@ GameObject:
   - component: {fileID: 915033527}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26138,9 +26283,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.73559, y: 5.860138}
@@ -26303,7 +26448,7 @@ GameObject:
   - component: {fileID: 915100108}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26319,9 +26464,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.677444, y: 25.8683}
@@ -26485,7 +26630,7 @@ GameObject:
   - component: {fileID: 918570790}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26501,9 +26646,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.013283, y: -4.532731}
@@ -26666,7 +26811,7 @@ GameObject:
   - component: {fileID: 920454676}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26682,9 +26827,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 44.559467, y: -0.004052162}
@@ -26934,7 +27079,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 0.5849056, g: 0.2974292, b: 0.05186896, a: 1}
   m_FlipX: 0
@@ -26955,8 +27100,8 @@ Transform:
   m_GameObject: {fileID: 921139100}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 63.9505, y: -9.7817, z: 0}
-  m_LocalScale: {x: 204.11856, y: 9.204635, z: 1}
+  m_LocalPosition: {x: 43.9695, y: -9.7817, z: 0}
+  m_LocalScale: {x: 244.08496, y: 9.204635, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -28283,7 +28428,7 @@ GameObject:
   - component: {fileID: 957897618}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28299,9 +28444,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.57152, y: 23.024872}
@@ -28464,7 +28609,7 @@ GameObject:
   - component: {fileID: 958542465}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28480,9 +28625,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.844765, y: -4.5366755}
@@ -28645,7 +28790,7 @@ GameObject:
   - component: {fileID: 969551881}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28661,9 +28806,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.988224, y: 3.6497908}
@@ -28877,16 +29022,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 990129581}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1637994499}
+  m_Father: {fileID: 1992901970}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 345, y: 175.81}
+  m_AnchoredPosition: {x: 100, y: 0.000030517578}
   m_SizeDelta: {x: 277.517, y: 60.6294}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1002428351
@@ -28905,7 +29050,7 @@ GameObject:
   - component: {fileID: 1002428352}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28921,9 +29066,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.161743, y: 7.17983}
@@ -29086,7 +29231,7 @@ GameObject:
   - component: {fileID: 1007103657}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29102,9 +29247,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.752037, y: -0.009208679}
@@ -29251,6 +29396,103 @@ Transform:
   m_Children: []
   m_Father: {fileID: 779355579}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1023275212
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1023275213}
+  - component: {fileID: 1023275216}
+  - component: {fileID: 1023275215}
+  - component: {fileID: 1023275214}
+  m_Layer: 5
+  m_Name: Exit
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1023275213
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1023275212}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1065248249}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1023275214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1023275212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: 2, y: -2}
+  m_UseGraphicAlpha: 1
+--- !u!114 &1023275215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1023275212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 5ef6417b1d79f0c488db17fa61570560, type: 3}
+    m_FontSize: 49
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 6
+    m_MaxSize: 65
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'EXIT
+
+'
+--- !u!222 &1023275216
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1023275212}
+  m_CullTransparentMesh: 1
 --- !u!43 &1028639141
 Mesh:
   m_ObjectHideFlags: 0
@@ -29432,7 +29674,7 @@ GameObject:
   - component: {fileID: 1048997934}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29448,9 +29690,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.629974, y: -1.5131378}
@@ -29597,6 +29839,139 @@ Transform:
   m_Children: []
   m_Father: {fileID: 779355579}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1065248248
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1065248249}
+  - component: {fileID: 1065248252}
+  - component: {fileID: 1065248251}
+  - component: {fileID: 1065248250}
+  m_Layer: 5
+  m_Name: ExitButton
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1065248249
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1065248248}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1023275213}
+  m_Father: {fileID: 1241803108}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -66.70002}
+  m_SizeDelta: {x: 211.3641, y: 72.4594}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1065248250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1065248248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 0
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 0, g: 0, b: 0, a: 0}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 0.1882353}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.32941177}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1065248251}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1076008322}
+        m_TargetAssemblyTypeName: PauseMenu, Assembly-CSharp
+        m_MethodName: QuitGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1065248251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1065248248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1065248252
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1065248248}
+  m_CullTransparentMesh: 1
 --- !u!43 &1065991399
 Mesh:
   m_ObjectHideFlags: 0
@@ -29762,6 +30137,122 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &1076008317
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1076008321}
+  - component: {fileID: 1076008320}
+  - component: {fileID: 1076008322}
+  - component: {fileID: 1076008319}
+  - component: {fileID: 1076008318}
+  m_Layer: 5
+  m_Name: Canvas1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1076008318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1076008317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &1076008319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1076008317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!223 &1076008320
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1076008317}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 1
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1076008321
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1076008317}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1241803108}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!114 &1076008322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1076008317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14a3b827c92b19b41ab29f1cd1cb3b70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pauseMenuUI: {fileID: 1241803107}
 --- !u!1 &1082372067
 GameObject:
   m_ObjectHideFlags: 0
@@ -29778,7 +30269,7 @@ GameObject:
   - component: {fileID: 1082372068}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29794,9 +30285,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 44.559406, y: -1.5001717}
@@ -30124,7 +30615,7 @@ GameObject:
   - component: {fileID: 1088083126}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30140,9 +30631,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.617695, y: 3.6412106}
@@ -30301,7 +30792,6 @@ GameObject:
   - component: {fileID: 1093264570}
   - component: {fileID: 1093264569}
   - component: {fileID: 1093264568}
-  - component: {fileID: 1093264574}
   - component: {fileID: 1093264573}
   m_Layer: 0
   m_Name: Chest
@@ -30448,6 +30938,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 617110522}
+  - {fileID: 130182804}
   m_Father: {fileID: 332219000}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1093264573
@@ -30462,19 +30953,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c668fdb1874d8c44985c200aee8b9a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1093264574
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1093264567}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 91fe2ef0afde14441865fb2bf89f1972, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerHealth: {fileID: 332219003}
 --- !u!1 &1094181453
 GameObject:
   m_ObjectHideFlags: 0
@@ -30491,7 +30969,7 @@ GameObject:
   - component: {fileID: 1094181454}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30507,9 +30985,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 44.559277, y: -4.525836}
@@ -30837,7 +31315,7 @@ GameObject:
   - component: {fileID: 1104234899}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30853,9 +31331,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.776875, y: 29.34547}
@@ -31183,7 +31661,7 @@ GameObject:
   - component: {fileID: 1106736774}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31199,9 +31677,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.101833, y: 8.701675}
@@ -31365,7 +31843,7 @@ GameObject:
   - component: {fileID: 1119717336}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31381,9 +31859,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.705215, y: 16.701366}
@@ -31541,8 +32019,8 @@ GameObject:
   - component: {fileID: 1131573136}
   - component: {fileID: 1131573134}
   m_Layer: 0
-  m_Name: Square (2)
-  m_TagString: Untagged
+  m_Name: InvisibleWall1
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31623,7 +32101,7 @@ GameObject:
   - component: {fileID: 1149759284}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31639,9 +32117,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 51.418533, y: -4.558404}
@@ -32134,7 +32612,7 @@ GameObject:
   - component: {fileID: 1178509869}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32150,9 +32628,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.70894, y: 15.372677}
@@ -32645,7 +33123,7 @@ GameObject:
   - component: {fileID: 1193730700}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32661,9 +33139,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.325245, y: -0.011745453}
@@ -32991,7 +33469,7 @@ GameObject:
   - component: {fileID: 1206812237}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33007,9 +33485,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.583393, y: 18.041107}
@@ -33337,7 +33815,7 @@ GameObject:
   - component: {fileID: 1209597250}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33353,9 +33831,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.04908, y: 3.636551}
@@ -33518,7 +33996,7 @@ GameObject:
   - component: {fileID: 1224951050}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33534,9 +34012,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.57621, y: 21.058424}
@@ -33848,6 +34326,106 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &1241803107
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1241803108}
+  - component: {fileID: 1241803110}
+  - component: {fileID: 1241803109}
+  - component: {fileID: 1241803111}
+  m_Layer: 5
+  m_Name: PauseMenu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &1241803108
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241803107}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1423244654}
+  - {fileID: 1891589015}
+  - {fileID: 1065248249}
+  m_Father: {fileID: 1076008321}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1241803109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241803107}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.10306148, g: 0.7283019, b: 0.6156731, a: 0.392}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1241803110
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241803107}
+  m_CullTransparentMesh: 1
+--- !u!95 &1241803111
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241803107}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 19fcaf3ed5d090e41929d2d6242fb075, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 2
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1256613732
 GameObject:
   m_ObjectHideFlags: 0
@@ -33864,7 +34442,7 @@ GameObject:
   - component: {fileID: 1256613733}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33880,9 +34458,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.305813, y: 10.591876}
@@ -34045,7 +34623,7 @@ GameObject:
   - component: {fileID: 1262909433}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34061,9 +34639,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.7132, y: 13.8524065}
@@ -34388,7 +34966,6 @@ GameObject:
   - component: {fileID: 1267490744}
   - component: {fileID: 1267490742}
   - component: {fileID: 1267490741}
-  - component: {fileID: 1267490745}
   - component: {fileID: 1267490740}
   m_Layer: 0
   m_Name: LeftLeg
@@ -34436,7 +35013,7 @@ HingeJoint2D:
   m_UseLimits: 1
   m_AngleLimits:
     m_LowerAngle: 0
-    m_UpperAngle: 180
+    m_UpperAngle: 45
 --- !u!50 &1267490741
 Rigidbody2D:
   serializedVersion: 4
@@ -34575,20 +35152,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetRotation: 0
   rb: {fileID: 1267490741}
-  force: 2000
---- !u!114 &1267490745
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1267490738}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 91fe2ef0afde14441865fb2bf89f1972, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerHealth: {fileID: 332219003}
+  force: 500
 --- !u!43 &1268773225
 Mesh:
   m_ObjectHideFlags: 0
@@ -34770,7 +35334,7 @@ GameObject:
   - component: {fileID: 1269564385}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34786,9 +35350,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.961624, y: 13.852464}
@@ -34946,8 +35510,8 @@ GameObject:
   - component: {fileID: 1279741040}
   - component: {fileID: 1279741044}
   - component: {fileID: 1279741043}
-  - component: {fileID: 1279741042}
   - component: {fileID: 1279741045}
+  - component: {fileID: 1279741042}
   - component: {fileID: 1279741041}
   m_Layer: 0
   m_Name: Head
@@ -34987,7 +35551,7 @@ HingeJoint2D:
   m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: -0.000000005664795, y: -0.100000024}
-  m_ConnectedAnchor: {x: 0, y: 0.10154281}
+  m_ConnectedAnchor: {x: 0, y: 0.10154284}
   m_UseMotor: 0
   m_Motor:
     m_MotorSpeed: 0
@@ -35098,7 +35662,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 5
+  m_SortingOrder: 7
   m_Sprite: {fileID: 21300000, guid: 4d2c695d627c6e64bb3e261ac5738539, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -35119,10 +35683,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1279741039}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 91fe2ef0afde14441865fb2bf89f1972, type: 3}
+  m_Script: {fileID: 11500000, guid: a77fb6c8c9c98dc448edc816c025adeb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerHealth: {fileID: 332219003}
+  pointManager: {fileID: 0}
 --- !u!43 &1292412754
 Mesh:
   m_ObjectHideFlags: 0
@@ -35469,7 +36033,7 @@ GameObject:
   - component: {fileID: 1306376941}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35485,9 +36049,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.17123, y: -1.50212}
@@ -36068,7 +36632,7 @@ GameObject:
   - component: {fileID: 1369516852}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36084,9 +36648,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 51.419796, y: -1.5220242}
@@ -36579,7 +37143,7 @@ GameObject:
   - component: {fileID: 1384269621}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36595,9 +37159,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.633736, y: -3.0912428}
@@ -36760,7 +37324,7 @@ GameObject:
   - component: {fileID: 1384270892}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36776,9 +37340,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.973465, y: 8.469246}
@@ -37104,7 +37668,6 @@ GameObject:
   - component: {fileID: 1393776816}
   - component: {fileID: 1393776813}
   - component: {fileID: 1393776811}
-  - component: {fileID: 1393776819}
   - component: {fileID: 1393776812}
   m_Layer: 0
   m_Name: RightUpHand
@@ -37156,7 +37719,7 @@ HingeJoint2D:
   m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0.06519058, y: -0.03048802}
-  m_ConnectedAnchor: {x: 0.13020897, y: 0.10952229}
+  m_ConnectedAnchor: {x: 0.13020945, y: 0.10952231}
   m_UseMotor: 0
   m_Motor:
     m_MotorSpeed: 0
@@ -37305,19 +37868,103 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pointManager: {fileID: 144730807}
---- !u!114 &1393776819
+--- !u!1 &1395204224
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1395204225}
+  - component: {fileID: 1395204228}
+  - component: {fileID: 1395204227}
+  - component: {fileID: 1395204226}
+  m_Layer: 5
+  m_Name: Menu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1395204225
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1395204224}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1891589015}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1395204226
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1393776810}
+  m_GameObject: {fileID: 1395204224}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 91fe2ef0afde14441865fb2bf89f1972, type: 3}
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerHealth: {fileID: 332219003}
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: 2, y: -2}
+  m_UseGraphicAlpha: 1
+--- !u!114 &1395204227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1395204224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 5ef6417b1d79f0c488db17fa61570560, type: 3}
+    m_FontSize: 49
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 6
+    m_MaxSize: 65
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'MENU
+
+'
+--- !u!222 &1395204228
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1395204224}
+  m_CullTransparentMesh: 1
 --- !u!1 &1405753211
 GameObject:
   m_ObjectHideFlags: 0
@@ -37334,7 +37981,7 @@ GameObject:
   - component: {fileID: 1405753212}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37350,9 +37997,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.804848, y: 5.860855}
@@ -37499,6 +38146,139 @@ Transform:
   m_Children: []
   m_Father: {fileID: 779355579}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1423244653
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1423244654}
+  - component: {fileID: 1423244657}
+  - component: {fileID: 1423244656}
+  - component: {fileID: 1423244655}
+  m_Layer: 5
+  m_Name: ResumeButton
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1423244654
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1423244653}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 83734351}
+  m_Father: {fileID: 1241803108}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 79}
+  m_SizeDelta: {x: 211.3641, y: 72.4594}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1423244655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1423244653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 0
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 0, g: 0, b: 0, a: 0}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 0.1882353}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.32941177}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1423244656}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1076008322}
+        m_TargetAssemblyTypeName: PauseMenu, Assembly-CSharp
+        m_MethodName: Resume
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1423244656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1423244653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1423244657
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1423244653}
+  m_CullTransparentMesh: 1
 --- !u!1 &1429141520
 GameObject:
   m_ObjectHideFlags: 0
@@ -37515,7 +38295,7 @@ GameObject:
   - component: {fileID: 1429141521}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37531,9 +38311,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.801083, y: -3.104928}
@@ -37696,7 +38476,7 @@ GameObject:
   - component: {fileID: 1430111435}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37712,9 +38492,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 51.46045, y: 5.701349}
@@ -37871,10 +38651,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1437274547}
-  - component: {fileID: 1437274546}
   - component: {fileID: 1437274545}
+  - component: {fileID: 1437274548}
   m_Layer: 0
-  m_Name: Square (4)
+  m_Name: InvisibleWall2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -37925,58 +38705,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!212 &1437274546
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1437274544}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 0.45972556, b: 0, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
 --- !u!4 &1437274547
 Transform:
   m_ObjectHideFlags: 0
@@ -37992,6 +38720,67 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!114 &1437274548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1437274544}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2510d92922771f4c8fe835283001342, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &1447543395
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1447543397}
+  - component: {fileID: 1447543396}
+  m_Layer: 0
+  m_Name: HelicopterSpawner2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1447543396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1447543395}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7ebf094d2805734796b2d277f89ee54, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectPrefab: {fileID: 4044893073663016083, guid: 2ed83f8924ace874bb0b34f1bcb05cbe, type: 3}
+  patrolLocation: {fileID: 2145225472}
+  moveSpeed: 5
+  respawnDelay: 15
+--- !u!4 &1447543397
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1447543395}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 108, y: 17.9, z: -0.11519417}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2145225472}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1453273275
 GameObject:
   m_ObjectHideFlags: 0
@@ -38008,7 +38797,7 @@ GameObject:
   - component: {fileID: 1453273276}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38024,9 +38813,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.163185, y: 5.859856}
@@ -38354,7 +39143,7 @@ GameObject:
   - component: {fileID: 1462402315}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38370,9 +39159,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.958694, y: 15.370397}
@@ -38865,7 +39654,7 @@ GameObject:
   - component: {fileID: 1471302772}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38881,9 +39670,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.637196, y: -4.54519}
@@ -39211,7 +40000,7 @@ GameObject:
   - component: {fileID: 1481801998}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39227,9 +40016,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.806934, y: -0.014136314}
@@ -40292,7 +41081,7 @@ GameObject:
   - component: {fileID: 1526335559}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40308,9 +41097,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.041416, y: -3.1001291}
@@ -40803,7 +41592,7 @@ GameObject:
   - component: {fileID: 1562613495}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40819,9 +41608,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.839172, y: -3.0799074}
@@ -41479,7 +42268,7 @@ GameObject:
   - component: {fileID: 1580062863}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41495,9 +42284,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.297047, y: 15.374723}
@@ -41660,7 +42449,7 @@ GameObject:
   - component: {fileID: 1580941947}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41676,9 +42465,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.589745, y: 15.373814}
@@ -42006,7 +42795,7 @@ GameObject:
   - component: {fileID: 1584863994}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42022,9 +42811,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.318554, y: 3.6389246}
@@ -42518,6 +43307,7 @@ GameObject:
   - component: {fileID: 1621965212}
   - component: {fileID: 1621965211}
   - component: {fileID: 1621965210}
+  - component: {fileID: 1621965213}
   m_Layer: 0
   m_Name: RightHand
   m_TagString: Player
@@ -42556,7 +43346,7 @@ HingeJoint2D:
   m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.007600294, y: -0.14716668}
+  m_ConnectedAnchor: {x: 0.007599817, y: -0.14716668}
   m_UseMotor: 0
   m_Motor:
     m_MotorSpeed: 0
@@ -42671,7 +43461,7 @@ SpringJoint2D:
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 0, y: 0}
   m_AutoConfigureDistance: 1
-  m_Distance: 33.395306
+  m_Distance: 20.983177
   m_DampingRatio: 0
   m_Frequency: 1
 --- !u!120 &1621965211
@@ -42794,6 +43584,103 @@ MonoBehaviour:
   lineRenderer: {fileID: 1621965211}
   springJoint: {fileID: 1621965210}
   ropeLength: 5
+  websoundR: {fileID: 1621965213}
+--- !u!82 &1621965213
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1621965203}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 3a786289ce8c65a47afbd73638e30c16, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.05
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1624327053
 GameObject:
   m_ObjectHideFlags: 0
@@ -42810,7 +43697,7 @@ GameObject:
   - component: {fileID: 1624327054}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42826,9 +43713,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.055763, y: 10.592903}
@@ -42991,7 +43878,7 @@ GameObject:
   - component: {fileID: 1629641710}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43007,9 +43894,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.333557, y: -4.548497}
@@ -43172,7 +44059,7 @@ GameObject:
   - component: {fileID: 1634930755}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43188,9 +44075,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.75624, y: -1.510354}
@@ -43372,7 +44259,6 @@ RectTransform:
   - {fileID: 696031471}
   - {fileID: 1507796627}
   - {fileID: 1992901970}
-  - {fileID: 990129584}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -43432,7 +44318,7 @@ Canvas:
   m_RenderMode: 0
   m_Camera: {fileID: 0}
   m_PlaneDistance: 100
-  m_PixelPerfect: 0
+  m_PixelPerfect: 1
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
@@ -43509,7 +44395,7 @@ GameObject:
   - component: {fileID: 1650113378}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43525,9 +44411,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.586582, y: 16.70236}
@@ -43690,7 +44576,7 @@ GameObject:
   - component: {fileID: 1654065842}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43706,9 +44592,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 44.525368, y: 6.114132}
@@ -44202,7 +45088,7 @@ GameObject:
   - component: {fileID: 1664097299}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44218,9 +45104,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 51.421127, y: 1.6901121}
@@ -44383,7 +45269,7 @@ GameObject:
   - component: {fileID: 1676901985}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44399,9 +45285,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.054577, y: 8.466114}
@@ -44894,7 +45780,7 @@ GameObject:
   - component: {fileID: 1684785956}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44910,9 +45796,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.8892, y: 21.211042}
@@ -45241,7 +46127,7 @@ GameObject:
   - component: {fileID: 1690035682}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45257,9 +46143,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.98145, y: 5.8607225}
@@ -45419,7 +46305,6 @@ GameObject:
   - component: {fileID: 1710651791}
   - component: {fileID: 1710651788}
   - component: {fileID: 1710651787}
-  - component: {fileID: 1710651792}
   - component: {fileID: 1710651790}
   m_Layer: 0
   m_Name: Hips
@@ -45584,7 +46469,7 @@ FixedJoint2D:
   m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0.02}
-  m_ConnectedAnchor: {x: 0.0039999485, y: -0.15500005}
+  m_ConnectedAnchor: {x: 0.0039999485, y: -0.15500003}
   m_DampingRatio: 0
   m_Frequency: 0
 --- !u!114 &1710651791
@@ -45594,27 +46479,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1710651784}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d002b135acf773043b497a1ab683fa7f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   targetRotation: 0
   rb: {fileID: 1710651787}
-  force: 5000
---- !u!114 &1710651792
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1710651784}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 91fe2ef0afde14441865fb2bf89f1972, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerHealth: {fileID: 332219003}
+  force: 1000
 --- !u!43 &1713129605
 Mesh:
   m_ObjectHideFlags: 0
@@ -45796,7 +46668,7 @@ GameObject:
   - component: {fileID: 1734661682}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45812,9 +46684,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.6062, y: 8.467222}
@@ -45977,7 +46849,7 @@ GameObject:
   - component: {fileID: 1735194293}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45993,9 +46865,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.299835, y: 13.852347}
@@ -46488,7 +47360,7 @@ GameObject:
   - component: {fileID: 1738125922}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46504,9 +47376,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.165596, y: 3.652482}
@@ -46669,7 +47541,7 @@ GameObject:
   - component: {fileID: 1741070389}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46685,9 +47557,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.701473, y: 18.037855}
@@ -46850,7 +47722,7 @@ GameObject:
   - component: {fileID: 1749428311}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46866,9 +47738,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.69732, y: 19.519958}
@@ -47691,7 +48563,7 @@ GameObject:
   - component: {fileID: 1787406216}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47707,9 +48579,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.00882, y: -3.0746584}
@@ -47890,7 +48762,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -238.1761, y: 196.02673}
+  m_AnchoredPosition: {x: -238.1761, y: 195.3}
   m_SizeDelta: {x: 182.514, y: 28.3783}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1809417457
@@ -47947,7 +48819,7 @@ GameObject:
   - component: {fileID: 1822761818}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47963,9 +48835,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.813347, y: 3.6470957}
@@ -48458,7 +49330,7 @@ GameObject:
   - component: {fileID: 1837456168}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48474,9 +49346,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.286636, y: 21.054077}
@@ -48639,7 +49511,7 @@ GameObject:
   - component: {fileID: 1845824092}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48655,9 +49527,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.77616, y: 31.190048}
@@ -48822,7 +49694,7 @@ GameObject:
   - component: {fileID: 1855019494}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48838,9 +49710,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.728287, y: 8.467896}
@@ -49003,7 +49875,7 @@ GameObject:
   - component: {fileID: 1859712549}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49019,9 +49891,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.680267, y: 25.606827}
@@ -49184,7 +50056,7 @@ GameObject:
   - component: {fileID: 1862957390}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49200,9 +50072,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 44.55954, y: 1.7125044}
@@ -49365,7 +50237,7 @@ GameObject:
   - component: {fileID: 1868175673}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49381,9 +50253,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.953564, y: 18.031395}
@@ -49711,7 +50583,7 @@ GameObject:
   - component: {fileID: 1876015942}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49727,9 +50599,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.322113, y: 1.6969709}
@@ -49876,6 +50748,139 @@ Transform:
   m_Children: []
   m_Father: {fileID: 779355579}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1891589014
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1891589015}
+  - component: {fileID: 1891589018}
+  - component: {fileID: 1891589017}
+  - component: {fileID: 1891589016}
+  m_Layer: 5
+  m_Name: MenuButton
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1891589015
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1891589014}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1395204225}
+  m_Father: {fileID: 1241803108}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 5.79998}
+  m_SizeDelta: {x: 211.3641, y: 72.4594}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1891589016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1891589014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 0
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 0, g: 0, b: 0, a: 0}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 0.1882353}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.32941177}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1891589017}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1076008322}
+        m_TargetAssemblyTypeName: PauseMenu, Assembly-CSharp
+        m_MethodName: LoadMenu
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1891589017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1891589014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1891589018
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1891589014}
+  m_CullTransparentMesh: 1
 --- !u!1 &1894108099
 GameObject:
   m_ObjectHideFlags: 0
@@ -49925,7 +50930,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.02573371, y: 0.17741048}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -49936,7 +50941,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1.0514674, y: 0.64517903}
   m_EdgeRadius: 0
 --- !u!4 &1894108102
 Transform:
@@ -49947,7 +50952,7 @@ Transform:
   m_GameObject: {fileID: 1894108099}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 55.169727, y: 21.723486, z: 0.0000015686652}
+  m_LocalPosition: {x: 55.169727, y: 32.8, z: 0.0000015686652}
   m_LocalScale: {x: 172.59674, y: 1.7209369, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -49969,7 +50974,7 @@ GameObject:
   - component: {fileID: 1897815202}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49985,9 +50990,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.95069, y: 19.524405}
@@ -50150,7 +51155,7 @@ GameObject:
   - component: {fileID: 1899970828}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50166,9 +51171,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.96792, y: 10.587312}
@@ -50331,7 +51336,7 @@ GameObject:
   - component: {fileID: 1909951852}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50347,9 +51352,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.763233, y: 16.700294}
@@ -50512,7 +51517,7 @@ GameObject:
   - component: {fileID: 1925726953}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50528,9 +51533,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.292156, y: 18.043732}
@@ -50858,7 +51863,7 @@ GameObject:
   - component: {fileID: 1960494822}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50874,9 +51879,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 44.559624, y: 3.654461}
@@ -51039,7 +52044,7 @@ GameObject:
   - component: {fileID: 1984429703}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51055,9 +52060,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.055195, y: 12.252629}
@@ -51385,7 +52390,7 @@ GameObject:
   - component: {fileID: 1989087912}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51401,9 +52406,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.89445, y: 5.98391}
@@ -51567,7 +52572,7 @@ GameObject:
   - component: {fileID: 1989676184}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51583,9 +52588,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.289455, y: 19.515888}
@@ -51926,7 +52931,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 990129584}
   m_Father: {fileID: 1637994499}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -52063,7 +53069,7 @@ Transform:
   m_GameObject: {fileID: 2012098723}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 31.728, y: 9.19508, z: -10}
+  m_LocalPosition: {x: -22.272, y: 4.77508, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -52119,7 +53125,7 @@ GameObject:
   - component: {fileID: 2020080149}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -52135,9 +53141,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 48.597183, y: 12.252717}
@@ -52465,7 +53471,7 @@ GameObject:
   - component: {fileID: 2039451323}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -52481,9 +53487,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.72234, y: 10.589711}
@@ -53503,6 +54509,7 @@ GameObject:
   - component: {fileID: 2059241363}
   - component: {fileID: 2059241361}
   - component: {fileID: 2059241364}
+  - component: {fileID: 2059241365}
   m_Layer: 0
   m_Name: 'LeftHand   '
   m_TagString: Player
@@ -53758,6 +54765,7 @@ MonoBehaviour:
   lineRenderer: {fileID: 2059241361}
   springJoint: {fileID: 2059241364}
   ropeLength: 5
+  websoundL: {fileID: 2059241365}
 --- !u!231 &2059241364
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -53776,9 +54784,105 @@ SpringJoint2D:
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 0, y: 0}
   m_AutoConfigureDistance: 1
-  m_Distance: 30.010323
+  m_Distance: 24.3141
   m_DampingRatio: 0
   m_Frequency: 1
+--- !u!82 &2059241365
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2059241354}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 3a786289ce8c65a47afbd73638e30c16, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.05
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &2059647289
 GameObject:
   m_ObjectHideFlags: 0
@@ -53795,7 +54899,7 @@ GameObject:
   - component: {fileID: 2059647290}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -53811,9 +54915,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 49.33794, y: 23.229015}
@@ -53975,7 +55079,6 @@ GameObject:
   - component: {fileID: 2060188052}
   - component: {fileID: 2060188050}
   - component: {fileID: 2060188049}
-  - component: {fileID: 2060188056}
   - component: {fileID: 2060188048}
   m_Layer: 0
   m_Name: RightLowHand
@@ -54015,7 +55118,7 @@ HingeJoint2D:
   m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0.005000045, y: 0.14500001}
-  m_ConnectedAnchor: {x: -0.01000024, y: 0.059999984}
+  m_ConnectedAnchor: {x: -0.01000024, y: 0.059999995}
   m_UseMotor: 0
   m_Motor:
     m_MotorSpeed: 0
@@ -54176,19 +55279,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pointManager: {fileID: 144730807}
---- !u!114 &2060188056
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2060188046}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 91fe2ef0afde14441865fb2bf89f1972, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerHealth: {fileID: 332219003}
 --- !u!43 &2060201929
 Mesh:
   m_ObjectHideFlags: 0
@@ -54370,7 +55460,7 @@ GameObject:
   - component: {fileID: 2060465538}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -54386,9 +55476,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 46.746456, y: 21.069614}
@@ -54551,7 +55641,7 @@ GameObject:
   - component: {fileID: 2064693339}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -54567,9 +55657,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 44.55934, y: -3.0654936}
@@ -54897,7 +55987,7 @@ GameObject:
   - component: {fileID: 2072531405}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -54913,9 +56003,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.760654, y: -3.0857267}
@@ -55078,7 +56168,7 @@ GameObject:
   - component: {fileID: 2073937845}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -55094,9 +56184,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.172943, y: -3.0693731}
@@ -55259,7 +56349,7 @@ GameObject:
   - component: {fileID: 2074517773}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -55275,9 +56365,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.044933, y: -0.012905121}
@@ -55440,7 +56530,7 @@ GameObject:
   - component: {fileID: 2082675744}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -55456,9 +56546,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 45.956135, y: 16.699383}
@@ -55951,7 +57041,7 @@ GameObject:
   - component: {fileID: 2103616471}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -55967,9 +57057,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 50.813843, y: 3.634056}
@@ -56346,7 +57436,7 @@ Transform:
   m_GameObject: {fileID: 2115778998}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 31.728, y: 9.19508, z: -10}
+  m_LocalPosition: {x: -22.272, y: 4.77508, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -56843,7 +57933,7 @@ GameObject:
   - component: {fileID: 2136304451}
   m_Layer: 0
   m_Name: 
-  m_TagString: Untagged
+  m_TagString: Tower
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -56859,9 +57949,9 @@ FixedJoint2D:
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 100
+  m_BreakForce: 300
   m_BreakTorque: Infinity
-  m_BreakAction: 2
+  m_BreakAction: 3
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 47.6875, y: 23.024378}
@@ -57008,6 +58098,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 779355579}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2145225471
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2145225472}
+  m_Layer: 0
+  m_Name: HelicopterPatrol
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2145225472
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2145225471}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.58, y: -8.02, z: -0.024334654}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1447543397}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2146598008
 GameObject:
   m_ObjectHideFlags: 0
@@ -57049,7 +58170,7 @@ Transform:
   m_GameObject: {fileID: 2146598008}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.9, y: 10.21, z: -0.120648354}
+  m_LocalPosition: {x: -26.4, y: 17.9, z: -0.120648354}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -57073,6 +58194,8 @@ SceneRoots:
   - {fileID: 1637994499}
   - {fileID: 2115779000}
   - {fileID: 642810697}
+  - {fileID: 1447543397}
   - {fileID: 144730806}
   - {fileID: 935185557}
   - {fileID: 1642623458}
+  - {fileID: 1076008321}

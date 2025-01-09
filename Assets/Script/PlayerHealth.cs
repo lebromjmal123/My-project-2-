@@ -35,7 +35,7 @@ public class PlayerHealth : MonoBehaviour
 
         if (damage > 0)
         {
-            Debug.Log("Triggered");
+            
             hpTrigger = true;
             StartCoroutine(Hurt());
         }
@@ -45,8 +45,10 @@ public class PlayerHealth : MonoBehaviour
     {
 
         anim.SetBool("hurt", true);
+        
         yield return new WaitForSeconds(0.5f);
         anim.SetBool("hurt", false);
+        
     }
 
 

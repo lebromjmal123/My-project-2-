@@ -15,16 +15,39 @@ public class HelicopterChase : MonoBehaviour
 
     private Transform player;
     private HelicopterPatrol patrolScript;
+    public AudioSource helicopterSound;
+    public bool played;
 
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
         patrolScript = GetComponent<HelicopterPatrol>();  // Get the patrol script for switching behaviors
+        helicopterSound.Play();
     }
 
     void Update()
     {
+        if (PauseMenu.GameIsPaused == true)
+        {
+            helicopterSound.Stop();
+            
+            played = true;
+
+        }
+        else if (PauseMenu.GameIsPaused == false)
+        {
+            if (played == true)
+            { 
+            helicopterSound.Play();
+            
+            played = false;
+            }
+        }
         
+
+        
+
+
         float distanceFromPlayer = Vector2.Distance(player.position, transform.position);
         if (distanceFromPlayer < lineOfSite && distanceFromPlayer > shootingRange)
         {

@@ -6,14 +6,14 @@ public class BulletChecked : MonoBehaviour
 {
     
     public PlayerHealth playerHealth;
-    void OnCollisionEnter2D(Collision2D collision)
+    void OnTriggerEnter2D(Collider2D other)
     {
         // Check if the collision is with a bullet
-        if (collision.gameObject.CompareTag("Bullet"))
+        if (other.gameObject.CompareTag("Bullet"))
         {
-            Debug.Log("Minus");
+            
             playerHealth.TakeDamage(10);
-            Destroy(collision.gameObject);
+            Destroy(other.gameObject);
             
         }
     }

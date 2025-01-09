@@ -83,12 +83,21 @@ public class Airplane : MonoBehaviour
         }
     }
 
-    void OnTrgiggerEnter2D (Collider2D other)
+    void OnCollisionEnter2D (Collision2D collision)
     {
-        if (other.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player"))
         {
             Destroy(gameObject);
 
         }
+        else if (collision.gameObject.CompareTag("Tower"))
+        {
+            Destroy(gameObject);
+        }
+        else if (collision.gameObject.CompareTag("Wall"))
+        {
+            Destroy(gameObject);
+        }
+
     }
 }

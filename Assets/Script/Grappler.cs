@@ -10,7 +10,8 @@ public class Grappler : MonoBehaviour
     public float ropeLength = 5f;            
 
     private Vector2 ropeAnchorPoint;         
-    private Rigidbody2D playerRigidbody;     
+    private Rigidbody2D playerRigidbody;
+    public AudioSource websoundR;
 
     void Start()
     {
@@ -23,6 +24,7 @@ public class Grappler : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E))
         {
             CreateRope();
+            websoundR.Play();
         }
         else if (Input.GetKeyUp(KeyCode.E))
         {

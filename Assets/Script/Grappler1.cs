@@ -11,6 +11,7 @@ public class Grappler1 : MonoBehaviour
 
     private Vector2 ropeAnchorPoint;
     private Rigidbody2D playerRigidbody;
+    public AudioSource websoundL;
 
     void Start()
     {
@@ -23,6 +24,7 @@ public class Grappler1 : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Q))
         {
             CreateRope();
+            websoundL.Play();
         }
         else if (Input.GetKeyUp(KeyCode.Q))
         {

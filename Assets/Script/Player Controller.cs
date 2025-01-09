@@ -53,7 +53,7 @@ public class PlayerController : MonoBehaviour
         //}
         else
         {
-            anim.Play("Idle");
+            //anim.Play("Idle");
         }
 
         isOnGround = Physics2D.OverlapCircle(playerPos.position, positionRadius, ground);

@@ -9,6 +9,9 @@ TagManager:
   - Bullet
   - Tower
   - Enemy
+  - Plane
+  - Helicopter
+  - Wall
   layers:
   - Default
   - TransparentFX

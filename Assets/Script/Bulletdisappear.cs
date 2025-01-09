@@ -32,12 +32,14 @@ public class Bulletdisappear : MonoBehaviour
     //    Debug.Log("Touched");
     //    }
     //   }
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (collision.gameObject.CompareTag("Player"))
-        { 
-        Destroy(gameObject);
+        if (other.gameObject.CompareTag("Player"))
+        {
+            Destroy(gameObject);
         }
+        else
+            Destroy(gameObject, 2);
     }
     private void Update()
     {

@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MenuManager : MonoBehaviour
+public class EndManager : MonoBehaviour
 {
-    public GameObject menuUI;
+    public GameObject endUI;
     public void LoadGame()
     {
-       SceneManager.LoadScene("Level");
+        SceneManager.LoadScene("Level");
         Debug.Log("load");
     }
     public void QuitGame()
@@ -16,5 +16,4 @@ public class MenuManager : MonoBehaviour
         Application.Quit();
         Debug.Log("quit");
     }
-
 }
