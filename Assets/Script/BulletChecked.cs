@@ -13,6 +13,7 @@ public class BulletChecked : MonoBehaviour
         {
             
             playerHealth.TakeDamage(10);
+            Debug.Log("trigger");
             Destroy(other.gameObject);
             
         }

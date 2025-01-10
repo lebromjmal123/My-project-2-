@@ -13,7 +13,7 @@ public class DestroyDetectHand : MonoBehaviour
         {
             Debug.Log("Touched");
             pointManager.pointCount++;
-            Destroy(collision.gameObject);
+           Destroy(collision.gameObject);
         }
     }
 }

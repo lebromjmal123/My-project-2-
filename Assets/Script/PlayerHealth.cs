@@ -33,23 +33,9 @@ public class PlayerHealth : MonoBehaviour
         healthAmount -= damage;
         healthBar.fillAmount = healthAmount / 100f;
 
-        if (damage > 0)
-        {
+        anim.SetTrigger("hurt");
+        Debug.Log("Triggered");
             
-            hpTrigger = true;
-            StartCoroutine(Hurt());
-        }
+
     }
-
-    IEnumerator Hurt()
-    {
-
-        anim.SetBool("hurt", true);
-        
-        yield return new WaitForSeconds(0.5f);
-        anim.SetBool("hurt", false);
-        
-    }
-
-
 }
