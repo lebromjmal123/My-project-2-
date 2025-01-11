@@ -1,0 +1,2306 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b96b5d5eb1c0e47b297cf9402fa76c38, type: 3}
+  m_Name: sprite-breaker-Tenant building A
+  m_EditorClassIdentifier: 
+  data:
+    polygons:
+    - vertices:
+      - {x: 0.669731, y: 0.73497725, z: 0}
+      - {x: 0.35610646, y: 0.73497725, z: 0}
+      - {x: 0.35491154, y: 0.68745023, z: 0}
+      - {x: 0.67343014, y: 0.68591523, z: 0}
+      uv:
+      - {x: 0.669731, y: 0.73497725}
+      - {x: 0.35610646, y: 0.73497725}
+      - {x: 0.35491154, y: 0.68745023}
+      - {x: 0.67343014, y: 0.68591523}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.669731, y: 0.73497725}
+      - {x: 0.35610646, y: 0.73497725}
+      - {x: 0.35491154, y: 0.68745023}
+      - {x: 0.67343014, y: 0.68591523}
+      pivot: {x: 0.5135448, y: 0.71083}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.66620225, y: 0.78179264, z: 0}
+      - {x: 0.35730162, y: 0.78253067, z: 0}
+      - {x: 0.35610646, y: 0.73497725, z: 0}
+      - {x: 0.669731, y: 0.73497725, z: 0}
+      uv:
+      - {x: 0.66620225, y: 0.78179264}
+      - {x: 0.35730162, y: 0.78253067}
+      - {x: 0.35610646, y: 0.73497725}
+      - {x: 0.669731, y: 0.73497725}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.66620225, y: 0.78179264}
+      - {x: 0.35730162, y: 0.78253067}
+      - {x: 0.35610646, y: 0.73497725}
+      - {x: 0.669731, y: 0.73497725}
+      pivot: {x: 0.5123353, y: 0.7585695}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.661569, y: 0.8432382, z: 0}
+      - {x: 0.3588645, y: 0.8447253, z: 0}
+      - {x: 0.35730162, y: 0.78253067, z: 0}
+      - {x: 0.66620225, y: 0.78179264, z: 0}
+      uv:
+      - {x: 0.661569, y: 0.8432382}
+      - {x: 0.3588645, y: 0.8447253}
+      - {x: 0.35730162, y: 0.78253067}
+      - {x: 0.66620225, y: 0.78179264}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.661569, y: 0.8432382}
+      - {x: 0.3588645, y: 0.8447253}
+      - {x: 0.35730162, y: 0.78253067}
+      - {x: 0.66620225, y: 0.78179264}
+      pivot: {x: 0.5109843, y: 0.81307167}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.65660226, y: 0.90911233, z: 0}
+      - {x: 0.3604824, y: 0.90911233, z: 0}
+      - {x: 0.3588645, y: 0.8447253, z: 0}
+      - {x: 0.661569, y: 0.8432382, z: 0}
+      uv:
+      - {x: 0.65660226, y: 0.90911233}
+      - {x: 0.3604824, y: 0.90911233}
+      - {x: 0.3588645, y: 0.8447253}
+      - {x: 0.661569, y: 0.8432382}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.65660226, y: 0.90911233}
+      - {x: 0.3604824, y: 0.90911233}
+      - {x: 0.3588645, y: 0.8447253}
+      - {x: 0.661569, y: 0.8432382}
+      pivot: {x: 0.5093795, y: 0.8765471}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.07575242, y: 0.73497725, z: 0}
+      - {x: 0.07286564, y: 0.6888085, z: 0}
+      - {x: 0.35491154, y: 0.68745023, z: 0}
+      - {x: 0.35492024, y: 0.73497725, z: 0}
+      uv:
+      - {x: 0.07575242, y: 0.73497725}
+      - {x: 0.07286564, y: 0.6888085}
+      - {x: 0.35491154, y: 0.68745023}
+      - {x: 0.35492024, y: 0.73497725}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.07575242, y: 0.73497725}
+      - {x: 0.07286564, y: 0.6888085}
+      - {x: 0.35491154, y: 0.68745023}
+      - {x: 0.35492024, y: 0.73497725}
+      pivot: {x: 0.21461247, y: 0.7115533}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35492024, y: 0.73497725, z: 0}
+      - {x: 0.35491154, y: 0.68745023, z: 0}
+      - {x: 0.35610646, y: 0.73497725, z: 0}
+      uv:
+      - {x: 0.35492024, y: 0.73497725}
+      - {x: 0.35491154, y: 0.68745023}
+      - {x: 0.35610646, y: 0.73497725}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000
+      edges:
+      - {x: 0.35492024, y: 0.73497725}
+      - {x: 0.35491154, y: 0.68745023}
+      - {x: 0.35610646, y: 0.73497725}
+      pivot: {x: 0.35531273, y: 0.71913487}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.07167368, y: 0.7832146, z: 0}
+      - {x: 0.07575242, y: 0.73497725, z: 0}
+      - {x: 0.35492024, y: 0.73497725, z: 0}
+      - {x: 0.35492897, y: 0.7825364, z: 0}
+      uv:
+      - {x: 0.07167368, y: 0.7832146}
+      - {x: 0.07575242, y: 0.73497725}
+      - {x: 0.35492024, y: 0.73497725}
+      - {x: 0.35492897, y: 0.7825364}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000300000001000000010000000300000002000000
+      edges:
+      - {x: 0.07167368, y: 0.7832146}
+      - {x: 0.07575242, y: 0.73497725}
+      - {x: 0.35492024, y: 0.73497725}
+      - {x: 0.35492897, y: 0.7825364}
+      pivot: {x: 0.21431883, y: 0.7589264}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35492897, y: 0.7825364, z: 0}
+      - {x: 0.35492024, y: 0.73497725, z: 0}
+      - {x: 0.35610646, y: 0.73497725, z: 0}
+      - {x: 0.35730162, y: 0.7825307, z: 0}
+      uv:
+      - {x: 0.35492897, y: 0.7825364}
+      - {x: 0.35492024, y: 0.73497725}
+      - {x: 0.35610646, y: 0.73497725}
+      - {x: 0.35730162, y: 0.7825307}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.35492897, y: 0.7825364}
+      - {x: 0.35492024, y: 0.73497725}
+      - {x: 0.35610646, y: 0.73497725}
+      - {x: 0.35730162, y: 0.7825307}
+      pivot: {x: 0.35581434, y: 0.75875545}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.07087926, y: 0.84613985, z: 0}
+      - {x: 0.07167368, y: 0.7832146, z: 0}
+      - {x: 0.35492897, y: 0.7825364, z: 0}
+      - {x: 0.35494035, y: 0.8447447, z: 0}
+      uv:
+      - {x: 0.07087926, y: 0.84613985}
+      - {x: 0.07167368, y: 0.7832146}
+      - {x: 0.35492897, y: 0.7825364}
+      - {x: 0.35494035, y: 0.8447447}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000300000001000000010000000300000002000000
+      edges:
+      - {x: 0.07087926, y: 0.84613985}
+      - {x: 0.07167368, y: 0.7832146}
+      - {x: 0.35492897, y: 0.7825364}
+      - {x: 0.35494035, y: 0.8447447}
+      pivot: {x: 0.21310556, y: 0.8141589}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35494035, y: 0.8447447, z: 0}
+      - {x: 0.35492897, y: 0.7825364, z: 0}
+      - {x: 0.35730162, y: 0.7825307, z: 0}
+      - {x: 0.3588645, y: 0.8447253, z: 0}
+      uv:
+      - {x: 0.35494035, y: 0.8447447}
+      - {x: 0.35492897, y: 0.7825364}
+      - {x: 0.35730162, y: 0.7825307}
+      - {x: 0.3588645, y: 0.8447253}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.35494035, y: 0.8447447}
+      - {x: 0.35492897, y: 0.7825364}
+      - {x: 0.35730162, y: 0.7825307}
+      - {x: 0.3588645, y: 0.8447253}
+      pivot: {x: 0.35650885, y: 0.8136343}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.669731, y: 0.73497725, z: 0}
+      - {x: 0.67343014, y: 0.68591523, z: 0}
+      - {x: 0.6746576, y: 0.73497725, z: 0}
+      uv:
+      - {x: 0.669731, y: 0.73497725}
+      - {x: 0.67343014, y: 0.68591523}
+      - {x: 0.6746576, y: 0.73497725}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000
+      edges:
+      - {x: 0.669731, y: 0.73497725}
+      - {x: 0.67343014, y: 0.68591523}
+      - {x: 0.6746576, y: 0.73497725}
+      pivot: {x: 0.6726062, y: 0.7186232}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.6746576, y: 0.73497725, z: 0}
+      - {x: 0.67343014, y: 0.68591523, z: 0}
+      - {x: 0.92994314, y: 0.68468094, z: 0}
+      - {x: 0.92994314, y: 0.73497725, z: 0}
+      uv:
+      - {x: 0.6746576, y: 0.73497725}
+      - {x: 0.67343014, y: 0.68591523}
+      - {x: 0.92994314, y: 0.68468094}
+      - {x: 0.92994314, y: 0.73497725}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.6746576, y: 0.73497725}
+      - {x: 0.67343014, y: 0.68591523}
+      - {x: 0.92994314, y: 0.68468094}
+      - {x: 0.92994314, y: 0.73497725}
+      pivot: {x: 0.8019935, y: 0.71013767}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.66620225, y: 0.78179264, z: 0}
+      - {x: 0.669731, y: 0.73497725, z: 0}
+      - {x: 0.6746576, y: 0.73497725, z: 0}
+      - {x: 0.6758282, y: 0.78176963, z: 0}
+      uv:
+      - {x: 0.66620225, y: 0.78179264}
+      - {x: 0.669731, y: 0.73497725}
+      - {x: 0.6746576, y: 0.73497725}
+      - {x: 0.6758282, y: 0.78176963}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000300000001000000010000000300000002000000
+      edges:
+      - {x: 0.66620225, y: 0.78179264}
+      - {x: 0.669731, y: 0.73497725}
+      - {x: 0.6746576, y: 0.73497725}
+      - {x: 0.6758282, y: 0.78176963}
+      pivot: {x: 0.67160475, y: 0.7583792}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.6758282, y: 0.78176963, z: 0}
+      - {x: 0.6746576, y: 0.73497725, z: 0}
+      - {x: 0.92994314, y: 0.73497725, z: 0}
+      - {x: 0.92994314, y: 0.78116167, z: 0}
+      uv:
+      - {x: 0.6758282, y: 0.78176963}
+      - {x: 0.6746576, y: 0.73497725}
+      - {x: 0.92994314, y: 0.73497725}
+      - {x: 0.92994314, y: 0.78116167}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.6758282, y: 0.78176963}
+      - {x: 0.6746576, y: 0.73497725}
+      - {x: 0.92994314, y: 0.73497725}
+      - {x: 0.92994314, y: 0.78116167}
+      pivot: {x: 0.80259305, y: 0.7582215}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.661569, y: 0.8432382, z: 0}
+      - {x: 0.66620225, y: 0.78179264, z: 0}
+      - {x: 0.6758282, y: 0.78176963, z: 0}
+      - {x: 0.6773641, y: 0.8431606, z: 0}
+      uv:
+      - {x: 0.661569, y: 0.8432382}
+      - {x: 0.66620225, y: 0.78179264}
+      - {x: 0.6758282, y: 0.78176963}
+      - {x: 0.6773641, y: 0.8431606}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000300000001000000010000000300000002000000
+      edges:
+      - {x: 0.661569, y: 0.8432382}
+      - {x: 0.66620225, y: 0.78179264}
+      - {x: 0.6758282, y: 0.78176963}
+      - {x: 0.6773641, y: 0.8431606}
+      pivot: {x: 0.6702409, y: 0.8124902}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.9185543, y: 0.8419762, z: 0}
+      - {x: 0.6773641, y: 0.8431606, z: 0}
+      - {x: 0.6758282, y: 0.78176963, z: 0}
+      - {x: 0.92994314, y: 0.78116167, z: 0}
+      - {x: 0.92994314, y: 0.84192026, z: 0}
+      uv:
+      - {x: 0.9185543, y: 0.8419762}
+      - {x: 0.6773641, y: 0.8431606}
+      - {x: 0.6758282, y: 0.78176963}
+      - {x: 0.92994314, y: 0.78116167}
+      - {x: 0.92994314, y: 0.84192026}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000000000000400000003000000
+      edges:
+      - {x: 0.9185543, y: 0.8419762}
+      - {x: 0.6773641, y: 0.8431606}
+      - {x: 0.6758282, y: 0.78176963}
+      - {x: 0.92994314, y: 0.78116167}
+      - {x: 0.92994314, y: 0.84192026}
+      pivot: {x: 0.82632655, y: 0.81799763}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.070057765, y: 0.9112104, z: 0}
+      - {x: 0.07087926, y: 0.84613985, z: 0}
+      - {x: 0.35494035, y: 0.8447447, z: 0}
+      - {x: 0.35495234, y: 0.91051537, z: 0}
+      uv:
+      - {x: 0.070057765, y: 0.9112104}
+      - {x: 0.07087926, y: 0.84613985}
+      - {x: 0.35494035, y: 0.8447447}
+      - {x: 0.35495234, y: 0.91051537}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000300000001000000010000000300000002000000
+      edges:
+      - {x: 0.070057765, y: 0.9112104}
+      - {x: 0.07087926, y: 0.84613985}
+      - {x: 0.35494035, y: 0.8447447}
+      - {x: 0.35495234, y: 0.91051537}
+      pivot: {x: 0.21270743, y: 0.87815255}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35495234, y: 0.91051537, z: 0}
+      - {x: 0.35494035, y: 0.8447447, z: 0}
+      - {x: 0.3588645, y: 0.8447253, z: 0}
+      - {x: 0.3604824, y: 0.90911233, z: 0}
+      - {x: 0.65660226, y: 0.90911233, z: 0}
+      - {x: 0.661569, y: 0.8432382, z: 0}
+      - {x: 0.6773641, y: 0.8431606, z: 0}
+      - {x: 0.6790294, y: 0.9097246, z: 0}
+      uv:
+      - {x: 0.35495234, y: 0.91051537}
+      - {x: 0.35494035, y: 0.8447447}
+      - {x: 0.3588645, y: 0.8447253}
+      - {x: 0.3604824, y: 0.90911233}
+      - {x: 0.65660226, y: 0.90911233}
+      - {x: 0.661569, y: 0.8432382}
+      - {x: 0.6773641, y: 0.8431606}
+      - {x: 0.6790294, y: 0.9097246}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000300000001000000010000000300000002000000040000000700000005000000050000000700000006000000
+      edges:
+      - {x: 0.35495234, y: 0.91051537}
+      - {x: 0.35494035, y: 0.8447447}
+      - {x: 0.3588645, y: 0.8447253}
+      - {x: 0.3604824, y: 0.90911233}
+      - {x: 0.65660226, y: 0.90911233}
+      - {x: 0.661569, y: 0.8432382}
+      - {x: 0.6773641, y: 0.8431606}
+      - {x: 0.6790294, y: 0.9097246}
+      pivot: {x: 0.5129756, y: 0.87679166}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.6790294, y: 0.9097246, z: 0}
+      - {x: 0.6773641, y: 0.8431606, z: 0}
+      - {x: 0.9185543, y: 0.8419762, z: 0}
+      - {x: 0.92994314, y: 0.84192026, z: 0}
+      - {x: 0.92994314, y: 0.90911233, z: 0}
+      uv:
+      - {x: 0.6790294, y: 0.9097246}
+      - {x: 0.6773641, y: 0.8431606}
+      - {x: 0.9185543, y: 0.8419762}
+      - {x: 0.92994314, y: 0.84192026}
+      - {x: 0.92994314, y: 0.90911233}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000400000002000000020000000400000003000000
+      edges:
+      - {x: 0.6790294, y: 0.9097246}
+      - {x: 0.6773641, y: 0.8431606}
+      - {x: 0.9185543, y: 0.8419762}
+      - {x: 0.92994314, y: 0.84192026}
+      - {x: 0.92994314, y: 0.90911233}
+      pivot: {x: 0.82696676, y: 0.8691788}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35478786, y: 0.68252695, z: 0}
+      - {x: 0.35491067, y: 0.68252695, z: 0}
+      - {x: 0.35491154, y: 0.68745023, z: 0}
+      uv:
+      - {x: 0.35478786, y: 0.68252695}
+      - {x: 0.35491067, y: 0.68252695}
+      - {x: 0.35491154, y: 0.68745023}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000
+      edges:
+      - {x: 0.35478786, y: 0.68252695}
+      - {x: 0.35491067, y: 0.68252695}
+      - {x: 0.35491154, y: 0.68745023}
+      pivot: {x: 0.35487005, y: 0.68416804}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35491154, y: 0.68745023, z: 0}
+      - {x: 0.35491067, y: 0.68252695, z: 0}
+      - {x: 0.6733454, y: 0.682527, z: 0}
+      - {x: 0.67343014, y: 0.68591523, z: 0}
+      uv:
+      - {x: 0.35491154, y: 0.68745023}
+      - {x: 0.35491067, y: 0.68252695}
+      - {x: 0.6733454, y: 0.682527}
+      - {x: 0.67343014, y: 0.68591523}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.35491154, y: 0.68745023}
+      - {x: 0.35491067, y: 0.68252695}
+      - {x: 0.6733454, y: 0.682527}
+      - {x: 0.67343014, y: 0.68591523}
+      pivot: {x: 0.5141494, y: 0.6846048}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.67343014, y: 0.68591523, z: 0}
+      - {x: 0.6733454, y: 0.682527, z: 0}
+      - {x: 0.67368543, y: 0.68252695, z: 0}
+      uv:
+      - {x: 0.67343014, y: 0.68591523}
+      - {x: 0.6733454, y: 0.682527}
+      - {x: 0.67368543, y: 0.68252695}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000
+      edges:
+      - {x: 0.67343014, y: 0.68591523}
+      - {x: 0.6733454, y: 0.682527}
+      - {x: 0.67368543, y: 0.68252695}
+      pivot: {x: 0.673487, y: 0.6836564}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.08300547, y: 0.06360987, z: 0}
+      - {x: 0.08144711, y: 0.009065509, z: 0}
+      - {x: 0.35478786, y: 0.011163533, z: 0}
+      - {x: 0.35479727, y: 0.06292871, z: 0}
+      uv:
+      - {x: 0.08300547, y: 0.06360987}
+      - {x: 0.08144711, y: 0.009065509}
+      - {x: 0.35478786, y: 0.011163533}
+      - {x: 0.35479727, y: 0.06292871}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.08300547, y: 0.06360987}
+      - {x: 0.08144711, y: 0.009065509}
+      - {x: 0.35478786, y: 0.011163533}
+      - {x: 0.35479727, y: 0.06292871}
+      pivot: {x: 0.21850944, y: 0.036691904}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35479727, y: 0.06292871, z: 0}
+      - {x: 0.35478786, y: 0.011163533, z: 0}
+      - {x: 0.65660167, y: 0.013261498, z: 0}
+      - {x: 0.65782523, y: 0.062169258, z: 0}
+      uv:
+      - {x: 0.35479727, y: 0.06292871}
+      - {x: 0.35478786, y: 0.011163533}
+      - {x: 0.65660167, y: 0.013261498}
+      - {x: 0.65782523, y: 0.062169258}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.35479727, y: 0.06292871}
+      - {x: 0.35478786, y: 0.011163533}
+      - {x: 0.65660167, y: 0.013261498}
+      - {x: 0.65782523, y: 0.062169258}
+      pivot: {x: 0.506003, y: 0.037380747}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.9185535, y: 0.06151582, z: 0}
+      - {x: 0.65782523, y: 0.062169258, z: 0}
+      - {x: 0.65660167, y: 0.013261498, z: 0}
+      - {x: 0.92994314, y: 0.011163533, z: 0}
+      uv:
+      - {x: 0.9185535, y: 0.06151582}
+      - {x: 0.65782523, y: 0.062169258}
+      - {x: 0.65660167, y: 0.013261498}
+      - {x: 0.92994314, y: 0.011163533}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.9185535, y: 0.06151582}
+      - {x: 0.65782523, y: 0.062169258}
+      - {x: 0.65660167, y: 0.013261498}
+      - {x: 0.92994314, y: 0.011163533}
+      pivot: {x: 0.79073083, y: 0.037027527}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.08438183, y: 0.111782715, z: 0}
+      - {x: 0.08300547, y: 0.06360987, z: 0}
+      - {x: 0.35479727, y: 0.06292871, z: 0}
+      - {x: 0.35480574, y: 0.10910808, z: 0}
+      uv:
+      - {x: 0.08438183, y: 0.111782715}
+      - {x: 0.08300547, y: 0.06360987}
+      - {x: 0.35479727, y: 0.06292871}
+      - {x: 0.35480574, y: 0.10910808}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.08438183, y: 0.111782715}
+      - {x: 0.08300547, y: 0.06360987}
+      - {x: 0.35479727, y: 0.06292871}
+      - {x: 0.35480574, y: 0.10910808}
+      pivot: {x: 0.21924758, y: 0.08685735}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35480574, y: 0.10910808, z: 0}
+      - {x: 0.35479727, y: 0.06292871, z: 0}
+      - {x: 0.65782523, y: 0.062169258, z: 0}
+      - {x: 0.6589243, y: 0.1061002, z: 0}
+      uv:
+      - {x: 0.35480574, y: 0.10910808}
+      - {x: 0.35479727, y: 0.06292871}
+      - {x: 0.65782523, y: 0.062169258}
+      - {x: 0.6589243, y: 0.1061002}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.35480574, y: 0.10910808}
+      - {x: 0.35479727, y: 0.06292871}
+      - {x: 0.65782523, y: 0.062169258}
+      - {x: 0.6589243, y: 0.1061002}
+      pivot: {x: 0.50658816, y: 0.08507656}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.6589243, y: 0.1061002, z: 0}
+      - {x: 0.65782523, y: 0.062169258, z: 0}
+      - {x: 0.9185535, y: 0.06151582, z: 0}
+      - {x: 0.9242481, y: 0.10347602, z: 0}
+      uv:
+      - {x: 0.6589243, y: 0.1061002}
+      - {x: 0.65782523, y: 0.062169258}
+      - {x: 0.9185535, y: 0.06151582}
+      - {x: 0.9242481, y: 0.10347602}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.6589243, y: 0.1061002}
+      - {x: 0.65782523, y: 0.062169258}
+      - {x: 0.9185535, y: 0.06151582}
+      - {x: 0.9242481, y: 0.10347602}
+      pivot: {x: 0.7898878, y: 0.08331533}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.08564167, y: 0.15587772, z: 0}
+      - {x: 0.08438183, y: 0.111782715, z: 0}
+      - {x: 0.35480574, y: 0.10910809, z: 0}
+      - {x: 0.35481408, y: 0.15455543, z: 0}
+      uv:
+      - {x: 0.08564167, y: 0.15587772}
+      - {x: 0.08438183, y: 0.111782715}
+      - {x: 0.35480574, y: 0.10910809}
+      - {x: 0.35481408, y: 0.15455543}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.08564167, y: 0.15587772}
+      - {x: 0.08438183, y: 0.111782715}
+      - {x: 0.35480574, y: 0.10910809}
+      - {x: 0.35481408, y: 0.15455543}
+      pivot: {x: 0.21991083, y: 0.13283099}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35481408, y: 0.15455543, z: 0}
+      - {x: 0.35480574, y: 0.10910809, z: 0}
+      - {x: 0.6589243, y: 0.10610021, z: 0}
+      - {x: 0.660099, y: 0.15305574, z: 0}
+      uv:
+      - {x: 0.35481408, y: 0.15455543}
+      - {x: 0.35480574, y: 0.10910809}
+      - {x: 0.6589243, y: 0.10610021}
+      - {x: 0.660099, y: 0.15305574}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.35481408, y: 0.15455543}
+      - {x: 0.35480574, y: 0.10910809}
+      - {x: 0.6589243, y: 0.10610021}
+      - {x: 0.660099, y: 0.15305574}
+      pivot: {x: 0.5071608, y: 0.13070486}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.660099, y: 0.15305574, z: 0}
+      - {x: 0.6589243, y: 0.10610021, z: 0}
+      - {x: 0.9242481, y: 0.10347602, z: 0}
+      - {x: 0.9299428, y: 0.15173018, z: 0}
+      uv:
+      - {x: 0.660099, y: 0.15305574}
+      - {x: 0.6589243, y: 0.10610021}
+      - {x: 0.9242481, y: 0.10347602}
+      - {x: 0.9299428, y: 0.15173018}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.660099, y: 0.15305574}
+      - {x: 0.6589243, y: 0.10610021}
+      - {x: 0.9242481, y: 0.10347602}
+      - {x: 0.9299428, y: 0.15173018}
+      pivot: {x: 0.79330355, y: 0.12859054}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.08714157, y: 0.20837662, z: 0}
+      - {x: 0.08564167, y: 0.15587772, z: 0}
+      - {x: 0.3548141, y: 0.15455544, z: 0}
+      - {x: 0.35482392, y: 0.20837662, z: 0}
+      uv:
+      - {x: 0.08714157, y: 0.20837662}
+      - {x: 0.08564167, y: 0.15587772}
+      - {x: 0.3548141, y: 0.15455544}
+      - {x: 0.35482392, y: 0.20837662}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.08714157, y: 0.20837662}
+      - {x: 0.08564167, y: 0.15587772}
+      - {x: 0.3548141, y: 0.15455544}
+      - {x: 0.35482392, y: 0.20837662}
+      pivot: {x: 0.22060531, y: 0.18179661}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35482392, y: 0.20837662, z: 0}
+      - {x: 0.3548141, y: 0.15455544, z: 0}
+      - {x: 0.660099, y: 0.15305577, z: 0}
+      - {x: 0.66148305, y: 0.20837662, z: 0}
+      uv:
+      - {x: 0.35482392, y: 0.20837662}
+      - {x: 0.3548141, y: 0.15455544}
+      - {x: 0.660099, y: 0.15305577}
+      - {x: 0.66148305, y: 0.20837662}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.35482392, y: 0.20837662}
+      - {x: 0.3548141, y: 0.15455544}
+      - {x: 0.660099, y: 0.15305577}
+      - {x: 0.66148305, y: 0.20837662}
+      pivot: {x: 0.507805, y: 0.1810911}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.66148305, y: 0.20837662, z: 0}
+      - {x: 0.660099, y: 0.15305577, z: 0}
+      - {x: 0.9299428, y: 0.15173018, z: 0}
+      - {x: 0.929943, y: 0.20837662, z: 0}
+      uv:
+      - {x: 0.66148305, y: 0.20837662}
+      - {x: 0.660099, y: 0.15305577}
+      - {x: 0.9299428, y: 0.15173018}
+      - {x: 0.929943, y: 0.20837662}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.66148305, y: 0.20837662}
+      - {x: 0.660099, y: 0.15305577}
+      - {x: 0.9299428, y: 0.15173018}
+      - {x: 0.929943, y: 0.20837662}
+      pivot: {x: 0.79536694, y: 0.18038478}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.08422478, y: 0.2608131, z: 0}
+      - {x: 0.08714157, y: 0.20837662, z: 0}
+      - {x: 0.3548239, y: 0.20837662, z: 0}
+      - {x: 0.35483328, y: 0.25947487, z: 0}
+      uv:
+      - {x: 0.08422478, y: 0.2608131}
+      - {x: 0.08714157, y: 0.20837662}
+      - {x: 0.3548239, y: 0.20837662}
+      - {x: 0.35483328, y: 0.25947487}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000300000001000000010000000300000002000000
+      edges:
+      - {x: 0.08422478, y: 0.2608131}
+      - {x: 0.08714157, y: 0.20837662}
+      - {x: 0.3548239, y: 0.20837662}
+      - {x: 0.35483328, y: 0.25947487}
+      pivot: {x: 0.22025588, y: 0.23426029}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35483328, y: 0.25947487, z: 0}
+      - {x: 0.3548239, y: 0.20837662, z: 0}
+      - {x: 0.66148305, y: 0.20837663, z: 0}
+      - {x: 0.66272336, y: 0.2579522, z: 0}
+      uv:
+      - {x: 0.35483328, y: 0.25947487}
+      - {x: 0.3548239, y: 0.20837662}
+      - {x: 0.66148305, y: 0.20837663}
+      - {x: 0.66272336, y: 0.2579522}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.35483328, y: 0.25947487}
+      - {x: 0.3548239, y: 0.20837662}
+      - {x: 0.66148305, y: 0.20837663}
+      - {x: 0.66272336, y: 0.2579522}
+      pivot: {x: 0.5084659, y: 0.2335451}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.9299429, y: 0.25663072, z: 0}
+      - {x: 0.66272336, y: 0.2579522, z: 0}
+      - {x: 0.66148305, y: 0.20837663, z: 0}
+      - {x: 0.929943, y: 0.20837662, z: 0}
+      uv:
+      - {x: 0.9299429, y: 0.25663072}
+      - {x: 0.66272336, y: 0.2579522}
+      - {x: 0.66148305, y: 0.20837663}
+      - {x: 0.929943, y: 0.20837662}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000300000001000000010000000300000002000000
+      edges:
+      - {x: 0.9299429, y: 0.25663072}
+      - {x: 0.66272336, y: 0.2579522}
+      - {x: 0.66148305, y: 0.20837663}
+      - {x: 0.929943, y: 0.20837662}
+      pivot: {x: 0.7960231, y: 0.23283404}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.08482661, y: 0.3153589, z: 0}
+      - {x: 0.08422478, y: 0.2608131, z: 0}
+      - {x: 0.3548333, y: 0.25947487, z: 0}
+      - {x: 0.3548433, y: 0.31404993, z: 0}
+      uv:
+      - {x: 0.08482661, y: 0.3153589}
+      - {x: 0.08422478, y: 0.2608131}
+      - {x: 0.3548333, y: 0.25947487}
+      - {x: 0.3548433, y: 0.31404993}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.08482661, y: 0.3153589}
+      - {x: 0.08422478, y: 0.2608131}
+      - {x: 0.3548333, y: 0.25947487}
+      - {x: 0.3548433, y: 0.31404993}
+      pivot: {x: 0.219682, y: 0.2874242}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.3548433, y: 0.31404993, z: 0}
+      - {x: 0.3548333, y: 0.25947487, z: 0}
+      - {x: 0.66272336, y: 0.2579522, z: 0}
+      - {x: 0.6640893, y: 0.3125508, z: 0}
+      uv:
+      - {x: 0.3548433, y: 0.31404993}
+      - {x: 0.3548333, y: 0.25947487}
+      - {x: 0.66272336, y: 0.2579522}
+      - {x: 0.6640893, y: 0.3125508}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.3548433, y: 0.31404993}
+      - {x: 0.3548333, y: 0.25947487}
+      - {x: 0.66272336, y: 0.2579522}
+      - {x: 0.6640893, y: 0.3125508}
+      pivot: {x: 0.5091224, y: 0.28600696}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.6640893, y: 0.3125508, z: 0}
+      - {x: 0.66272336, y: 0.2579522, z: 0}
+      - {x: 0.9299429, y: 0.25663072, z: 0}
+      - {x: 0.92994314, y: 0.31126207, z: 0}
+      uv:
+      - {x: 0.6640893, y: 0.3125508}
+      - {x: 0.66272336, y: 0.2579522}
+      - {x: 0.9299429, y: 0.25663072}
+      - {x: 0.92994314, y: 0.31126207}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.6640893, y: 0.3125508}
+      - {x: 0.66272336, y: 0.2579522}
+      - {x: 0.9299429, y: 0.25663072}
+      - {x: 0.92994314, y: 0.31126207}
+      pivot: {x: 0.7966747, y: 0.28459895}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.08538209, y: 0.36570805, z: 0}
+      - {x: 0.08482661, y: 0.3153589, z: 0}
+      - {x: 0.3548433, y: 0.3140499, z: 0}
+      - {x: 0.3548525, y: 0.36438435, z: 0}
+      uv:
+      - {x: 0.08538209, y: 0.36570805}
+      - {x: 0.08482661, y: 0.3153589}
+      - {x: 0.3548433, y: 0.3140499}
+      - {x: 0.3548525, y: 0.36438435}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.08538209, y: 0.36570805}
+      - {x: 0.08482661, y: 0.3153589}
+      - {x: 0.3548433, y: 0.3140499}
+      - {x: 0.3548525, y: 0.36438435}
+      pivot: {x: 0.21997613, y: 0.33987528}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.3548525, y: 0.36438435, z: 0}
+      - {x: 0.3548433, y: 0.3140499, z: 0}
+      - {x: 0.66408926, y: 0.31255078, z: 0}
+      - {x: 0.6653479, y: 0.3628591, z: 0}
+      uv:
+      - {x: 0.3548525, y: 0.36438435}
+      - {x: 0.3548433, y: 0.3140499}
+      - {x: 0.66408926, y: 0.31255078}
+      - {x: 0.6653479, y: 0.3628591}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.3548525, y: 0.36438435}
+      - {x: 0.3548433, y: 0.3140499}
+      - {x: 0.66408926, y: 0.31255078}
+      - {x: 0.6653479, y: 0.3628591}
+      pivot: {x: 0.5097832, y: 0.33846104}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.6653479, y: 0.3628591, z: 0}
+      - {x: 0.66408926, y: 0.31255078, z: 0}
+      - {x: 0.92994314, y: 0.31126207, z: 0}
+      - {x: 0.92994314, y: 0.36155927, z: 0}
+      uv:
+      - {x: 0.6653479, y: 0.3628591}
+      - {x: 0.66408926, y: 0.31255078}
+      - {x: 0.92994314, y: 0.31126207}
+      - {x: 0.92994314, y: 0.36155927}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.6653479, y: 0.3628591}
+      - {x: 0.66408926, y: 0.31255078}
+      - {x: 0.92994314, y: 0.31126207}
+      - {x: 0.92994314, y: 0.36155927}
+      pivot: {x: 0.79733086, y: 0.3370578}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.098530844, y: 0.4181779, z: 0}
+      - {x: 0.08596246, y: 0.41830382, z: 0}
+      - {x: 0.08538209, y: 0.36570805, z: 0}
+      - {x: 0.35485247, y: 0.36438435, z: 0}
+      - {x: 0.3548618, y: 0.4156081, z: 0}
+      uv:
+      - {x: 0.098530844, y: 0.4181779}
+      - {x: 0.08596246, y: 0.41830382}
+      - {x: 0.08538209, y: 0.36570805}
+      - {x: 0.35485247, y: 0.36438435}
+      - {x: 0.3548618, y: 0.4156081}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000000000000400000003000000
+      edges:
+      - {x: 0.098530844, y: 0.4181779}
+      - {x: 0.08596246, y: 0.41830382}
+      - {x: 0.08538209, y: 0.36570805}
+      - {x: 0.35485247, y: 0.36438435}
+      - {x: 0.3548618, y: 0.4156081}
+      pivot: {x: 0.19591793, y: 0.39643645}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.3548618, y: 0.4156081, z: 0}
+      - {x: 0.35485247, y: 0.36438435, z: 0}
+      - {x: 0.66534793, y: 0.36285907, z: 0}
+      - {x: 0.66658944, y: 0.41248298, z: 0}
+      uv:
+      - {x: 0.3548618, y: 0.4156081}
+      - {x: 0.35485247, y: 0.36438435}
+      - {x: 0.66534793, y: 0.36285907}
+      - {x: 0.66658944, y: 0.41248298}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.3548618, y: 0.4156081}
+      - {x: 0.35485247, y: 0.36438435}
+      - {x: 0.66534793, y: 0.36285907}
+      - {x: 0.66658944, y: 0.41248298}
+      pivot: {x: 0.5104129, y: 0.38883364}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.66658944, y: 0.41248298, z: 0}
+      - {x: 0.66534793, y: 0.36285907, z: 0}
+      - {x: 0.92994314, y: 0.36155927, z: 0}
+      - {x: 0.92994314, y: 0.40984282, z: 0}
+      uv:
+      - {x: 0.66658944, y: 0.41248298}
+      - {x: 0.66534793, y: 0.36285907}
+      - {x: 0.92994314, y: 0.36155927}
+      - {x: 0.92994314, y: 0.40984282}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.66658944, y: 0.41248298}
+      - {x: 0.66534793, y: 0.36285907}
+      - {x: 0.92994314, y: 0.36155927}
+      - {x: 0.92994314, y: 0.40984282}
+      pivot: {x: 0.79795593, y: 0.38668603}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.08658489, y: 0.4747192, z: 0}
+      - {x: 0.08596246, y: 0.41830382, z: 0}
+      - {x: 0.098530844, y: 0.4181779, z: 0}
+      - {x: 0.3548618, y: 0.4156081, z: 0}
+      - {x: 0.35487214, y: 0.47211793, z: 0}
+      uv:
+      - {x: 0.08658489, y: 0.4747192}
+      - {x: 0.08596246, y: 0.41830382}
+      - {x: 0.098530844, y: 0.4181779}
+      - {x: 0.3548618, y: 0.4156081}
+      - {x: 0.35487214, y: 0.47211793}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000400000002000000020000000400000003000000
+      edges:
+      - {x: 0.08658489, y: 0.4747192}
+      - {x: 0.08596246, y: 0.41830382}
+      - {x: 0.098530844, y: 0.4181779}
+      - {x: 0.3548618, y: 0.4156081}
+      - {x: 0.35487214, y: 0.47211793}
+      pivot: {x: 0.19616243, y: 0.4397854}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35487214, y: 0.47211793, z: 0}
+      - {x: 0.3548618, y: 0.4156081, z: 0}
+      - {x: 0.6665894, y: 0.41248295, z: 0}
+      - {x: 0.6680054, y: 0.46908188, z: 0}
+      uv:
+      - {x: 0.35487214, y: 0.47211793}
+      - {x: 0.3548618, y: 0.4156081}
+      - {x: 0.6665894, y: 0.41248295}
+      - {x: 0.6680054, y: 0.46908188}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.35487214, y: 0.47211793}
+      - {x: 0.3548618, y: 0.4156081}
+      - {x: 0.6665894, y: 0.41248295}
+      - {x: 0.6680054, y: 0.46908188}
+      pivot: {x: 0.5110822, y: 0.44232273}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.6680054, y: 0.46908188, z: 0}
+      - {x: 0.6665894, y: 0.41248295, z: 0}
+      - {x: 0.92994314, y: 0.40984282, z: 0}
+      - {x: 0.92994314, y: 0.46654218, z: 0}
+      uv:
+      - {x: 0.6680054, y: 0.46908188}
+      - {x: 0.6665894, y: 0.41248295}
+      - {x: 0.92994314, y: 0.40984282}
+      - {x: 0.92994314, y: 0.46654218}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.6680054, y: 0.46908188}
+      - {x: 0.6665894, y: 0.41248295}
+      - {x: 0.92994314, y: 0.40984282}
+      - {x: 0.92994314, y: 0.46654218}
+      pivot: {x: 0.7986203, y: 0.43948746}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.08714157, y: 0.52517617, z: 0}
+      - {x: 0.08658489, y: 0.4747192, z: 0}
+      - {x: 0.35487214, y: 0.4721179, z: 0}
+      - {x: 0.35488176, y: 0.5245185, z: 0}
+      uv:
+      - {x: 0.08714157, y: 0.52517617}
+      - {x: 0.08658489, y: 0.4747192}
+      - {x: 0.35487214, y: 0.4721179}
+      - {x: 0.35488176, y: 0.5245185}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000300000001000000010000000300000002000000
+      edges:
+      - {x: 0.08714157, y: 0.52517617}
+      - {x: 0.08658489, y: 0.4747192}
+      - {x: 0.35487214, y: 0.4721179}
+      - {x: 0.35488176, y: 0.5245185}
+      pivot: {x: 0.22087008, y: 0.49913293}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35488176, y: 0.5245185, z: 0}
+      - {x: 0.35487214, y: 0.4721179, z: 0}
+      - {x: 0.6680054, y: 0.46908188, z: 0}
+      - {x: 0.66937304, y: 0.5237461, z: 0}
+      uv:
+      - {x: 0.35488176, y: 0.5245185}
+      - {x: 0.35487214, y: 0.4721179}
+      - {x: 0.6680054, y: 0.46908188}
+      - {x: 0.66937304, y: 0.5237461}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.35488176, y: 0.5245185}
+      - {x: 0.35487214, y: 0.4721179}
+      - {x: 0.6680054, y: 0.46908188}
+      - {x: 0.66937304, y: 0.5237461}
+      pivot: {x: 0.5117831, y: 0.49736607}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.66937304, y: 0.5237461, z: 0}
+      - {x: 0.6680054, y: 0.46908188, z: 0}
+      - {x: 0.92994314, y: 0.46654218, z: 0}
+      - {x: 0.92994314, y: 0.52310604, z: 0}
+      uv:
+      - {x: 0.66937304, y: 0.5237461}
+      - {x: 0.6680054, y: 0.46908188}
+      - {x: 0.92994314, y: 0.46654218}
+      - {x: 0.92994314, y: 0.52310604}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.66937304, y: 0.5237461}
+      - {x: 0.6680054, y: 0.46908188}
+      - {x: 0.92994314, y: 0.46654218}
+      - {x: 0.92994314, y: 0.52310604}
+      pivot: {x: 0.79931617, y: 0.49561906}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.081447065, y: 0.57762647, z: 0}
+      - {x: 0.08714157, y: 0.52517617, z: 0}
+      - {x: 0.35488176, y: 0.52451867, z: 0}
+      - {x: 0.3548911, y: 0.5756382, z: 0}
+      uv:
+      - {x: 0.081447065, y: 0.57762647}
+      - {x: 0.08714157, y: 0.52517617}
+      - {x: 0.35488176, y: 0.52451867}
+      - {x: 0.3548911, y: 0.5756382}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000300000001000000010000000300000002000000
+      edges:
+      - {x: 0.081447065, y: 0.57762647}
+      - {x: 0.08714157, y: 0.52517617}
+      - {x: 0.35488176, y: 0.52451867}
+      - {x: 0.3548911, y: 0.5756382}
+      pivot: {x: 0.21959037, y: 0.5507399}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.3548911, y: 0.5756382, z: 0}
+      - {x: 0.35488176, y: 0.52451867, z: 0}
+      - {x: 0.66937304, y: 0.52374613, z: 0}
+      - {x: 0.6706138, y: 0.5733423, z: 0}
+      uv:
+      - {x: 0.3548911, y: 0.5756382}
+      - {x: 0.35488176, y: 0.52451867}
+      - {x: 0.66937304, y: 0.52374613}
+      - {x: 0.6706138, y: 0.5733423}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.3548911, y: 0.5756382}
+      - {x: 0.35488176, y: 0.52451867}
+      - {x: 0.66937304, y: 0.52374613}
+      - {x: 0.6706138, y: 0.5733423}
+      pivot: {x: 0.5124399, y: 0.5493113}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.6706138, y: 0.5733423, z: 0}
+      - {x: 0.66937304, y: 0.52374613, z: 0}
+      - {x: 0.92994314, y: 0.52310604, z: 0}
+      - {x: 0.92994314, y: 0.57145655, z: 0}
+      uv:
+      - {x: 0.6706138, y: 0.5733423}
+      - {x: 0.66937304, y: 0.52374613}
+      - {x: 0.92994314, y: 0.52310604}
+      - {x: 0.92994314, y: 0.57145655}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.6706138, y: 0.5733423}
+      - {x: 0.66937304, y: 0.52374613}
+      - {x: 0.92994314, y: 0.52310604}
+      - {x: 0.92994314, y: 0.57145655}
+      pivot: {x: 0.79996824, y: 0.5479127}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.07575242, y: 0.6342735, z: 0}
+      - {x: 0.081447065, y: 0.57762647, z: 0}
+      - {x: 0.3548911, y: 0.57563823, z: 0}
+      - {x: 0.35490143, y: 0.6322698, z: 0}
+      uv:
+      - {x: 0.07575242, y: 0.6342735}
+      - {x: 0.081447065, y: 0.57762647}
+      - {x: 0.3548911, y: 0.57563823}
+      - {x: 0.35490143, y: 0.6322698}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000300000001000000010000000300000002000000
+      edges:
+      - {x: 0.07575242, y: 0.6342735}
+      - {x: 0.081447065, y: 0.57762647}
+      - {x: 0.3548911, y: 0.57563823}
+      - {x: 0.35490143, y: 0.6322698}
+      pivot: {x: 0.216748, y: 0.60495204}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35490143, y: 0.6322698, z: 0}
+      - {x: 0.3548911, y: 0.57563823, z: 0}
+      - {x: 0.6706138, y: 0.5733424, z: 0}
+      - {x: 0.6720311, y: 0.6299935, z: 0}
+      uv:
+      - {x: 0.35490143, y: 0.6322698}
+      - {x: 0.3548911, y: 0.57563823}
+      - {x: 0.6706138, y: 0.5733424}
+      - {x: 0.6720311, y: 0.6299935}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.35490143, y: 0.6322698}
+      - {x: 0.3548911, y: 0.57563823}
+      - {x: 0.6706138, y: 0.5733424}
+      - {x: 0.6720311, y: 0.6299935}
+      pivot: {x: 0.5131093, y: 0.602811}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.6720311, y: 0.6299935, z: 0}
+      - {x: 0.6706138, y: 0.5733424, z: 0}
+      - {x: 0.92994314, y: 0.57145655, z: 0}
+      - {x: 0.92994314, y: 0.62814224, z: 0}
+      uv:
+      - {x: 0.6720311, y: 0.6299935}
+      - {x: 0.6706138, y: 0.5733424}
+      - {x: 0.92994314, y: 0.57145655}
+      - {x: 0.92994314, y: 0.62814224}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.6720311, y: 0.6299935}
+      - {x: 0.6706138, y: 0.5733424}
+      - {x: 0.92994314, y: 0.57145655}
+      - {x: 0.92994314, y: 0.62814224}
+      pivot: {x: 0.80063283, y: 0.60073364}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.07286564, y: 0.6888085, z: 0}
+      - {x: 0.07575242, y: 0.6342735, z: 0}
+      - {x: 0.35490143, y: 0.6322698, z: 0}
+      - {x: 0.35491067, y: 0.68252695, z: 0}
+      - {x: 0.35478786, y: 0.68252695, z: 0}
+      - {x: 0.35491154, y: 0.68745023, z: 0}
+      uv:
+      - {x: 0.07286564, y: 0.6888085}
+      - {x: 0.07575242, y: 0.6342735}
+      - {x: 0.35490143, y: 0.6322698}
+      - {x: 0.35491067, y: 0.68252695}
+      - {x: 0.35478786, y: 0.68252695}
+      - {x: 0.35491154, y: 0.68745023}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000400000001000000010000000400000002000000020000000400000003000000000000000500000004000000
+      edges:
+      - {x: 0.07286564, y: 0.6888085}
+      - {x: 0.07575242, y: 0.6342735}
+      - {x: 0.35490143, y: 0.6322698}
+      - {x: 0.35491067, y: 0.68252695}
+      - {x: 0.35478786, y: 0.68252695}
+      - {x: 0.35491154, y: 0.68745023}
+      pivot: {x: 0.26135495, y: 0.6679761}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.35491067, y: 0.68252695, z: 0}
+      - {x: 0.35490143, y: 0.6322698, z: 0}
+      - {x: 0.6720311, y: 0.6299935, z: 0}
+      - {x: 0.6733454, y: 0.68252695, z: 0}
+      uv:
+      - {x: 0.35491067, y: 0.68252695}
+      - {x: 0.35490143, y: 0.6322698}
+      - {x: 0.6720311, y: 0.6299935}
+      - {x: 0.6733454, y: 0.68252695}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 000000000200000001000000000000000300000002000000
+      edges:
+      - {x: 0.35491067, y: 0.68252695}
+      - {x: 0.35490143, y: 0.6322698}
+      - {x: 0.6720311, y: 0.6299935}
+      - {x: 0.6733454, y: 0.68252695}
+      pivot: {x: 0.51379716, y: 0.65682936}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    - vertices:
+      - {x: 0.67343014, y: 0.68591523, z: 0}
+      - {x: 0.67368543, y: 0.68252695, z: 0}
+      - {x: 0.6733454, y: 0.68252695, z: 0}
+      - {x: 0.6720311, y: 0.6299935, z: 0}
+      - {x: 0.92994314, y: 0.62814224, z: 0}
+      - {x: 0.92994314, y: 0.68468094, z: 0}
+      uv:
+      - {x: 0.67343014, y: 0.68591523}
+      - {x: 0.67368543, y: 0.68252695}
+      - {x: 0.6733454, y: 0.68252695}
+      - {x: 0.6720311, y: 0.6299935}
+      - {x: 0.92994314, y: 0.62814224}
+      - {x: 0.92994314, y: 0.68468094}
+      normals:
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      triangles: 010000000300000002000000010000000400000003000000000000000500000001000000010000000500000004000000
+      edges:
+      - {x: 0.67343014, y: 0.68591523}
+      - {x: 0.67368543, y: 0.68252695}
+      - {x: 0.6733454, y: 0.68252695}
+      - {x: 0.6720311, y: 0.6299935}
+      - {x: 0.92994314, y: 0.62814224}
+      - {x: 0.92994314, y: 0.68468094}
+      pivot: {x: 0.7587297, y: 0.665631}
+      name: 
+      zOffset: 0
+      sortingOrderOffset: 0
+      active: 1
+      enabled: 1
+      includeInPhysics: 1
+      tag: 
+      floatValue: 0
+      stringValue: 
+      extra: {fileID: 0}
+      shardColor: {r: 1, g: 1, b: 1, a: 1}
+      currentColor: {r: 1, g: 1, b: 1, a: 1}
+      skipColorUpdate: 0
+      gameObject: {fileID: 0}
+      startPosition: {x: 0, y: 0, z: 0}
+    selectedPolygons: 
