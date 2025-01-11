@@ -12,6 +12,7 @@ TagManager:
   - Plane
   - Helicopter
   - Wall
+  - Ground
   layers:
   - Default
   - TransparentFX

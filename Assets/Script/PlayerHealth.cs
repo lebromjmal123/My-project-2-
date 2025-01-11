@@ -6,10 +6,9 @@ using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public Image healthBar;
     public float healthAmount;
     private Animator anim;
-    public bool hpTrigger;
+    
     
 
     // Start is called before the first frame update
@@ -31,8 +30,7 @@ public class PlayerHealth : MonoBehaviour
     public void TakeDamage(float damage)
     {
         healthAmount -= damage;
-        healthBar.fillAmount = healthAmount / 100f;
-
+        
         anim.SetTrigger("hurt");
         Debug.Log("Triggered");
             
