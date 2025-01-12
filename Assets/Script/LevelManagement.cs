@@ -8,12 +8,9 @@ public class LevelManagement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        RestartScene();
+        Time.timeScale = 1f;
     }
 
     // Update is called once per frame
-    public void RestartScene()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-    }
+    
 }
