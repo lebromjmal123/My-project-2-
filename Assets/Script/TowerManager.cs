@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class TowerManager : MonoBehaviour
 {
@@ -10,6 +11,11 @@ public class TowerManager : MonoBehaviour
     public int score = 0;
     public Text scoreText;  // Link this to a UI Text in the Inspector
 
+
+    void Start()
+    {
+        score = 0;
+    }
     private void Awake()
     {
         // Correct Singleton pattern setup
@@ -36,6 +42,14 @@ public class TowerManager : MonoBehaviour
         if (scoreText != null)
         {
             scoreText.text = score.ToString();
+        }
+    }
+
+    void Update()
+    {
+        if (score == 10)
+        {
+            SceneManager.LoadScene("Win");
         }
     }
 }

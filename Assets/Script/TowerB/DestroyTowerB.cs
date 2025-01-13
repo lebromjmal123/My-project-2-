@@ -6,10 +6,10 @@ public class DestroyTowerB : MonoBehaviour
 {
     // Start is called before the first frame update
     public bool touchedB;
-    public int scoreValue = 1;      // Points awarded when Tower A is destroyed
-    public float destroyDelay = 10f; // Time (in seconds) before destruction
+    public int scoreValue = 1;      
+    public float destroyDelay = 10f; 
 
-    private bool hasScored = false;  // Prevents scoring multiple times
+    private bool hasScored = false;  
 
     void Update()
     {
@@ -25,7 +25,7 @@ public class DestroyTowerB : MonoBehaviour
         {
             hasScored = true;
 
-            // Add score via TowerManager
+            
             if (TowerManager.Instance != null)
             {
                 Debug.Log("Tower B Destroyed");
@@ -36,7 +36,7 @@ public class DestroyTowerB : MonoBehaviour
                 Debug.LogError("TowerManager is NULL!");
             }
 
-            // Destroy Tower A after scoring
+            
             Destroy(this.gameObject);
         }
     }
