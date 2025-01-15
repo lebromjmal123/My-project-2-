@@ -6,26 +6,19 @@ using UnityEngine.UI;
 
 public class TutorialManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    public GameObject spaceText;
-
-    void Start()
+    public GameObject menuUI;
+    public void LoadGame()
     {
-        StartCoroutine(ShowSpaceText());
-    }
-    // Update is called once per frame
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            SceneManager.LoadScene("Level");
-        }
+        SceneManager.LoadScene("Level");
+        Debug.Log("load");
     }
 
-    IEnumerator ShowSpaceText()
+   
+    public void Menu()
     {
-        spaceText.SetActive(true);
-        yield return new WaitForSeconds(2.0f);
+        SceneManager.LoadScene("MainMenu");
+        Debug.Log("quit");
     }
+
 
 }

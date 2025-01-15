@@ -8,10 +8,17 @@ public class MenuManager : MonoBehaviour
     public GameObject menuUI;
     public void LoadGame()
     {
-       SceneManager.LoadScene("Tutorial");
+       SceneManager.LoadScene("Level");
         Debug.Log("load");
     }
-    public void QuitGame()
+
+    public void Tutorial()
+    {
+        SceneManager.LoadScene("Tutorial");
+        Debug.Log("tutorial");
+
+    }
+        public void QuitGame()
     {
         Application.Quit();
         Debug.Log("quit");
