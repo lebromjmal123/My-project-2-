@@ -149,7 +149,7 @@ MonoBehaviour:
   speed: 15
   lineOfSite: 15
   shootingRange: 10
-  fireRate: 3
+  fireRate: 2
   bullet: {fileID: 3459297500665259231, guid: f03b682fc07b38442a9817bdbc7f08cf, type: 3}
   bulletParent: {fileID: 4044893073663016083}
   helicopterSound: {fileID: -2942479032395647467}
@@ -211,7 +211,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 564d0c3f0e26f3b4bbbba57ebfc2cf65, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.5
+  m_Volume: 1
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -220,7 +220,7 @@ AudioSource:
   Priority: 33
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 40
+  MaxDistance: 50
   Pan2D: 0
   rolloffMode: 1
   BypassEffects: 0
@@ -269,8 +269,8 @@ AudioSource:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
-      time: 0.026748657
-      value: 0.68162537
+      time: 0.05060196
+      value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0

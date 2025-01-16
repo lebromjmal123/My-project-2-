@@ -105,7 +105,7 @@ MonoBehaviour:
   minAltitude: 1
   bulletPrefab: {fileID: 3459297500665259231, guid: f03b682fc07b38442a9817bdbc7f08cf, type: 3}
   bulletSpeed: 10
-  shootingCooldown: 3
+  shootingCooldown: 2
 --- !u!50 &1947163861604978124
 Rigidbody2D:
   serializedVersion: 4
