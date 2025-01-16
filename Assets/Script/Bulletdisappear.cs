@@ -39,7 +39,7 @@ public class Bulletdisappear : MonoBehaviour
             Destroy(gameObject);
         }
         else
-            Destroy(gameObject, 2);
+            Destroy(gameObject, 50);
     }
     private void Update()
     {

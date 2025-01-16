@@ -10,6 +10,7 @@ public class PlayerHealth : MonoBehaviour
     private Animator anim;
     
     
+    
 
     // Start is called before the first frame update
     void Start()
@@ -22,6 +23,7 @@ public class PlayerHealth : MonoBehaviour
     {
         if (healthAmount <= 0)
         {
+            TowerManager.Instance.ResetScore();
             SceneManager.LoadScene("End");
         }
        

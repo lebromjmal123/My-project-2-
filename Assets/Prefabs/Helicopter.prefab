@@ -150,7 +150,7 @@ MonoBehaviour:
   lineOfSite: 15
   shootingRange: 10
   fireRate: 2
-  bullet: {fileID: 3459297500665259231, guid: f03b682fc07b38442a9817bdbc7f08cf, type: 3}
+  bullet: {fileID: 3459297500665259231, guid: 89c2af55495cdf94ea37c0a1e3d0199b, type: 3}
   bulletParent: {fileID: 4044893073663016083}
   helicopterSound: {fileID: -2942479032395647467}
   played: 0

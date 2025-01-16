@@ -55,6 +55,7 @@ public class TowerManager : MonoBehaviour
 
         if (scoreText == null)
         {
+
             GameObject textObject = GameObject.Find("CurrentTower");  // Replace with your Text object's name
             if (textObject != null)
             {
@@ -66,7 +67,12 @@ public class TowerManager : MonoBehaviour
             }
 
         }
+        
 
     }
 
+    public void ResetScore()
+    {
+        score = 0;
+    }
 }
