@@ -50,6 +50,23 @@ public class TowerManager : MonoBehaviour
         if (score == 10)
         {
             SceneManager.LoadScene("Win");
+            score = 0;
         }
+
+        if (scoreText == null)
+        {
+            GameObject textObject = GameObject.Find("CurrentTower");  // Replace with your Text object's name
+            if (textObject != null)
+            {
+                scoreText = textObject.GetComponent<Text>();
+            }
+            else
+            {
+                Debug.LogWarning("ScoreText UI not found in the scene.");
+            }
+
+        }
+
     }
+
 }
